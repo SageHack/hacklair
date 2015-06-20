@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://sage.cyberguerrilla.net"
 languageCode = "en-us"
 title = "The Hack Lair"
 theme = "terminal"
