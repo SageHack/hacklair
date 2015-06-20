@@ -7,8 +7,13 @@ description = "Interesting documentaries to watch"
 
 Here’s a list of a docus I enjoyed and recommend.
 
+## Some privacy tools
+Before we begin...
+
+Here’s [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/) .onion address. You’ll need the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) to visit. If you need a good VPN check out [CryptoStorm.is](http://cryptostorm.is/). Enjoy ;)
+
 ### I am
-This is my favorite docu ever. By former Jim Carrey (Ace Ventura) producer. Guy got hit by weird sickness after bike accident and choose to seek out the meaning of life. Made me cry.
+This is my favorite docu ever. By former Jim Carrey (Ace Ventura producer). Guy got hit by weird sickness after bike accident and choose to seek out the meaning of life. Made me cry.
 
 [Website](http://www.iamthedoc.com/)
 
@@ -64,6 +69,3 @@ Greece government campaign against “poor woman” and “whores”. Forced HIV
 Follow a well known Syrian writer and a volunteer militia photograph during the coming Islamic State Syrian “liberation”.
 
 [Trailer](https://www.youtube.com/watch?v=VkKGxGDBXwQ)
-
-## Some privacy tools
-Oh and by the way here’s [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/) .onion address. You’ll need the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) to visit. If you need a good VPN check out [CryptoStorm.is](http://cryptostorm.is/). Enjoy ;)
