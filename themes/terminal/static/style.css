@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'Terminus';
+    src: url('terminus.ttf');
+}
+
+html {
+    background-color: #273229;
+    font-size: 1.25em;
+    padding: 0.75em 0.5em;
+}
+
+body {
+    border: 2px dashed #1fd978;
+    border-radius: 2px;
+    color: #9cdc9c;
+    font-family: 'Terminus';
+    text-shadow: 0 0 1px #1a8f53;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0.5em 1em;
+}
+
+header {
+    border-bottom: 2px dashed #1fd978;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    margin: 0;
+    padding-bottom: 0.5em;
+    padding-top: 0.25em;
+    text-align: center;
+}
+
+header + nav {
+    padding: 0.5em 0;
+    border-bottom: 2px dashed #1fd978;
+}
+
+h1 {
+    font-size: 1.75em;
+}
+
+h1, h2, h3, h4, h5 {
+    letter-spacing: 0.05em;
+}
+
+a {
+    background-color: #1cdc79;
+    border: 1px solid #187243;
+    color: #175837;
+    text-decoration: none;
+    text-shadow: 0 0 1px #175736;
+    padding: 0 0.25em;
+}
+
+a:hover {
+    background-color: #175837;
+    color: #1cdc79;
+}
+
+main {
+    text-align: justify;
+}
+
+footer {
+    border-top: 2px dashed #1fd978;
+    margin-top: 1em;
+    padding: 0.5em 0 0 0;
+}
+
+.cursor {
+    background: none transparent;
+    border: 1px solid transparent;
+    color: #9cdc9c;
+
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: step-start;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blinker {
+    50% {
+        background-color: #1cdc79;
+        border: 1px solid #187243;
+        color: #175837;
+    }
+}
