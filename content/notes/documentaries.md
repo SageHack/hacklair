@@ -29,15 +29,15 @@ Hey! It’s us ;) One of the story of Anonymous.
 [Website](http://wearelegionthedocumentary.com/)
 [Youtube](https://www.youtube.com/watch?v=3SsLGPaYjvM)
 
-### Citizen Four
-It’s about Edward Snowden. Pretty cool and honest.
-
-[Website](https://citizenfourfilm.com/)
-
 ### RED! Hack
 True bad ass hacker warriors hacktivists. Must watch.
 
 [Youtube](https://www.youtube.com/watch?v=nf-24WuN--Y)
+
+### Citizen Four
+It’s about Edward Snowden. Pretty cool and honest.
+
+[Website](https://citizenfourfilm.com/)
 
 ### The Hacker Wars
 Hacktivists stories from the Internet.
@@ -55,10 +55,22 @@ What happened during The Pirate Bay founder trials.
 
 [Youtube](https://www.youtube.com/watch?v=eTOKXCEwo_8)
 
+### Mandela - Long walk to freedom
+
+The life story of a revolutionary rebel who freed his country.
+
+[Website](http://mandelafilm.com/)
+
 ### I am FEMEN
 One of the four docu on the FEMEN topless protester activist group.
 
 [Website](http://caravelproduction.ch/documentaires-3/femen/)
+
+### Virunga
+
+How the oil industry destroy a natural reserve protected by devoted African volunteers.
+
+[Website](http://virungamovie.com/)
 
 ### Ruins - Chronicle of an HIV witch hunt
 Greece government campaign against “poor woman” and “whores”. Forced HIV tests and other mistreatments of woman. All this show in the end, was just to win the next elections. Sickening.

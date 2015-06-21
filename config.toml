@@ -1,4 +1,4 @@
-baseurl = "https://sage.cyberguerrilla.net"
+baseurl = "//sh.cganx.org"
 languageCode = "en-us"
 title = "The Hack Lair"
 theme = "terminal"
