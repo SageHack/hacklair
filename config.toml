@@ -1,4 +1,4 @@
-baseurl = "http://sh.cganx.org"
+baseurl = "http://sh.cganx.org/"
 languageCode = "en-us"
 title = "The Hack Lair"
 theme = "terminal"

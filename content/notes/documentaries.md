@@ -2,7 +2,6 @@
 date = "2015-06-20T18:16:08-04:00"
 title = "Documentaries"
 description = "Interesting documentaries to watch"
-
 +++
 
 Here’s a list of a docus I enjoyed and recommend.
