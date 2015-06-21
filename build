@@ -1,0 +1,22 @@
+#!/bin/sh
+
+echo "Building static site with hugo"
+hugo
+
+echo "Compressing CSS"
+for f in `find public/ -name "*.css"`;
+do
+    yui-compressor $f -o $f
+done
+
+echo "Compressing HTML"
+for f in `find public/ -name "*.html"`;
+do
+    java -jar htmlcompressor.jar $f -o $f
+done
+
+echo "Compressing XML"
+for f in `find public/ -name "*.xml"`;
+do
+    java -jar htmlcompressor.jar $f -o $f
+done
