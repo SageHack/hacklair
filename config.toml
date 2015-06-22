@@ -3,5 +3,5 @@ languageCode = "en-us"
 title = "The Hack Lair"
 theme = "terminal"
 
-[params]
+[Params]
     Twitter = "SageHack"

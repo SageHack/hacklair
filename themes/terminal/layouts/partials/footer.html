@@ -1,4 +1,8 @@
 <footer>
+{{ if isset .Site.Params "Twitter" }}
     <span class="cursor">B</span>y
     {{with .Site.Params.Twitter}}<a href="https://twitter.com/{{.}}">@{{.}}</a>{{end}}
+{{ else }}
+    <span class="cursor">B</span>uilt with &lt;3
+{{ end }}
 </footer>

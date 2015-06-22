@@ -1,4 +1,6 @@
 #!/bin/sh
+echo "Pre build cleanup"
+rm -fr public/
 
 echo "Building static site with hugo"
 hugo

@@ -4,17 +4,13 @@
 <meta name="description" content="{{ .Description }}">
 
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.png">
-<link href="{{ .Site.BaseURL }}style.css" rel="stylesheet">
-<link href="{{ .Site.BaseURL }}gradiant.css" rel="stylesheet">
+<link href="{{ .Site.BaseURL }}styles/main.css" rel="stylesheet">
+<link href="{{ .Site.BaseURL }}styles/gradiant.css" rel="stylesheet">
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@{{ .Site.Params.Twitter }}" />
-<meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:description" content="{{ .Description }}" />
+{{ if isset .Site.Params "Twitter" }}{{ partial "twitter.html" . }}{{ end }}
 
 <header>{{ .Title }}</header>
 
 <nav>
-    <a href="{{ .Site.BaseURL }}">Home</a> &gt;
-    <a href="{{ .Site.BaseURL }}notes/">Notes</a>
+{{ partial "nav.html" . }}
 </nav>
