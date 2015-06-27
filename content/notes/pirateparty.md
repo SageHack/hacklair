@@ -4,7 +4,7 @@ title = "Pirate Party"
 description = "What is the Pirate Party political movement and how to get involved."
 +++
 
-The Pirate Party as political movement that supports civil rights, direct democracy, reform of copyright and patent law, the free sharing of knowledge, information privacy, transparency, freedom of information, anti-corruption and network neutrality.
+The Pirate Party is political movement that supports civil rights, direct democracy, reform of copyright and patent law, the free sharing of knowledge, information privacy, transparency, freedom of information, anti-corruption and network neutrality.
 
 Pirate Parties International represents and support its members around the globe.
 

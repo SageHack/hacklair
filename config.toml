@@ -5,3 +5,4 @@ theme = "terminal"
 
 [Params]
     Twitter = "SageHack"
+    Github = "SageHack/hack-lair"

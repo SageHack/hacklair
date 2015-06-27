@@ -5,4 +5,9 @@
 {{ else }}
     <span class="cursor">B</span>uilt with &lt;3
 {{ end }}
+
+{{ if isset .Site.Params "Github" }}
+    {{with .Site.Params.Github }}on <a href="https://github.com/{{.}}">GitHub</a>{{end}}
+{{ end }}
+
 </footer>
