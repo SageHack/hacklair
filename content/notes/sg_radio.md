@@ -20,7 +20,7 @@ More at [SGRadio.info](http://sgradio.info/) & [@SG_Radio](https://twitter.com/S
 
 # Note worthy shows
 
-[Plastic Jesus anonymous street artit](http://tradiov.com/la/videos/6-23-15-suicide-girls/)
+[Plastic Jesus anonymous street artist](http://tradiov.com/la/videos/6-23-15-suicide-girls/)
 
 [Biella Coleman on #Anonymous hacktivists](http://tradiov.com/la/videos/suicide-girls-2-26-15-biella-coleman/)
 
