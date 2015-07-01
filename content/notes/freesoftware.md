@@ -36,6 +36,8 @@ Without free software, everybody on earth, would be at the full mercy of governm
 
 # Learn more
 
+I wrote [a guide on how to learn Linux](/howto/linux) if you feel like giving it a try.
+
 ## Watch
 
 [Richard Stalman - Freedom in your computer and in the net](https://media.ccc.de/browse/congress/2014/31c3_-_6123_-_en_-_saal_1_-_201412291130_-_freedom_in_your_computer_and_in_the_net_-_richard_stallman.html#video)
