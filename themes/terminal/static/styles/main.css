@@ -4,24 +4,24 @@
 }
 
 html {
-    background-color: #273229;
+    background: url('bg.png') repeat scroll 0 0  #273229;
     font-size: 1.25em;
     padding: 0.75em 0.5em;
 }
 
 body {
-    border: 2px dashed #1fd978;
+    border: 2px solid #a0fa96;
     border-radius: 2px;
-    color: #9cdc9c;
+    color: #a0fa96;
     font-family: 'Terminus';
-    text-shadow: 0 0 1px #1a8f53;
+    text-shadow: 0 0 15px #93f18c;
     max-width: 600px;
     margin: 0 auto;
-    padding: 0.5em 1em;
+    padding: 0.5em 1em 0 1em;
 }
 
 header {
-    border-bottom: 2px dashed #1fd978;
+    border-bottom: 2px solid #a0fa96;
     font-size: 2em;
     font-weight: bold;
     letter-spacing: 0.05em;
@@ -32,8 +32,8 @@ header {
 }
 
 header + nav {
-    padding: 0.5em 0;
-    border-bottom: 2px dashed #1fd978;
+    padding: 1em 0;
+    border-bottom: 2px solid #a0fa96;
 }
 
 h1 {
@@ -46,9 +46,10 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-    background-color: #1cdc79;
-    border: 1px solid #187243;
-    color: #175837;
+    background-color: #f6ffeb;
+    box-shadow: 0 0 10px #f6ffeb;
+    border-radius: 2px;
+    color: #41783d;
     text-decoration: none;
     text-shadow: 0 0 1px #175736;
     padding: 0 0.25em;
@@ -56,7 +57,7 @@ a {
 
 a:hover {
     background-color: #175837;
-    color: #1cdc79;
+    color: #f6ffeb;
 }
 
 main {
@@ -64,9 +65,9 @@ main {
 }
 
 footer {
-    border-top: 2px dashed #1fd978;
-    margin-top: 1em;
-    padding: 0.5em 0 0 0;
+    border-top: 2px solid #a0fa96;
+    margin-top: 1.5em;
+    padding: 1em 0;
 }
 
 .cursor {
@@ -82,8 +83,9 @@ footer {
 
 @keyframes blinker {
     50% {
-        background-color: #1cdc79;
-        border: 1px solid #187243;
+        background-color: #f6ffeb;
+        box-shadow: 0 0 4px #afffa4;
+        border-radius: 1px;
         color: #175837;
     }
 }
