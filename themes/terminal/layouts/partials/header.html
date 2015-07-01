@@ -3,7 +3,7 @@
 <title>{{ .Title }}</title>
 <meta name="description" content="{{ .Description }}">
 
-<link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.png">
+<link rel="shortcut icon" href="/favicon.png">
 <link href="/styles/main.css" rel="stylesheet">
 
 {{ if isset .Site.Params "Twitter" }}{{ partial "twitter.html" . }}{{ end }}
