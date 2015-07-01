@@ -55,11 +55,6 @@ a {
     padding: 0 0.25em;
 }
 
-a:hover {
-    background-color: #175837;
-    color: #f6ffeb;
-}
-
 main {
     text-align: justify;
 }
