@@ -43,7 +43,7 @@ The easiest way to learn is to install [Ubuntu for desktop](http://www.ubuntu.co
 
 This is where Linux hold it’s power. Your first step should be to learn how to install/remove software with it. There’s nothing like installing your favorite software without going through a clumsy wizard and tons of legal user agreements.
 
-Use the terminal whenever you can.
+Use the terminal whenever you can. I wrote [a guide for that](/howto/terminal) too!
 
 # Going further
 
