@@ -59,6 +59,18 @@ main {
     text-align: justify;
 }
 
+ul {
+    padding-left: 1em;
+}
+
+li {
+    list-style: none;
+}
+
+li:before {
+    content: "\00BB \0020";
+}
+
 footer {
     border-top: 2px solid #a0fa96;
     margin-top: 1.5em;
