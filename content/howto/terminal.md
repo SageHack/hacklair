@@ -29,6 +29,18 @@ Make sure you change the font to something that suits you. Smaller is better as 
 
 At some point you’ll probably want to customize your options. Check the [terminator config](http://linux.die.net/man/5/terminator_config) manual.
 
+## Term browsing
+
+Yep... It’s a thing. And it’s very useful. [W3M](http://w3m.sourceforge.net/) is your friend. “apt-get install w3m” and “w3m duckduckgo.com”.
+
+## Multiple sessions over multiple servers
+
+Byobu is a neat software to help you manage multiple terminal sessions. It keep them alive on your local and remote machines. Once installed use the F1 key to configure, access help and use the F2, F3, F4 to create and more between windows.
+
+Just type "apt-get install byobu". To enable by default on remote servers use "byobu-enable".
+
+My favorite trick is keyboard copy/paste. Press F7 and move around, then press spacebar to select your text, press enter to return in normal mode. Paste with F12 and then CTRL plus ].
+
 ## Bash the shell
 
 Bash is great and all but ZSH is greater.
@@ -36,6 +48,21 @@ Bash is great and all but ZSH is greater.
 The first thing you need to learn about is auto-complete. It’s what happen with you start typing a command or a path and hit the TAB key. ZSH auto-complete is freaking awesome.
 
 Then there’s [OhMyZSH](http://ohmyz.sh). One command curl install and you’ll have a complete setup and you’ll be ready to roll. It’s a bliss. Be sure to check included themes and plug-ins.
+
+## MySQL
+
+If you're playing around with MySQL databases there's a few things you need to know.
+
+### MySQL is dead, use MariaDB instead
+
+Read [Dead database walking: MySQL's creator on why the future belongs to MariaDB] (http://www.computerworld.com.au/article/457551/dead_database_walking_mysql_creator_why_future_belongs_mariadb/).
+
+Updating is as simple as "sudo apt-get remove mysql-client mysql-server ; sudo apt-get install mariadb-client mariadb-client".
+
+### Python MyCLI
+
+[MyCLI](https://github.com/dbcli/mycli) is a very powerful tool. It's way better than default command line tools you'll get. To install use "sudo apt-get install python-pip ; sudo pip install mycli". Then use as any other MySQL command line tools.
+
 
 ## Vim (and not Emacs)
 
@@ -49,8 +76,16 @@ At some point you’ll want to choose and get used to a color scheme. It’s rea
 
 If you need help choosing a color scheme check [Vim Colors](https://vimcolors.com).
 
-## Term browsing
+## Powerline fonts
 
-Yep... It’s a thing. And it’s very useful. [W3M](http://w3m.sourceforge.net/) is your friend. “apt-get install w3m” and “w3m duckduckgo.com”.
+Some themes and softwares like Vim can take advantage of patched fonts and provide you with advanced feedback. Installing them is easy.
 
-Enjoy!
+cd ~/Downloads ; git clone https://github.com/powerline/fonts ; cd fonts ; ./install.sh ; cd .. ; rm -fr fonts
+
+### With ZSH
+
+To take advantage of powerline fonts with ZSH use the agnoster theme. You'll need to edit your ~/.zshrc file.
+
+### With SPF13 VIM
+
+You need to create ~/.vimrc.before.local and add the following line "let g:airline_powerline_fonts=1".
