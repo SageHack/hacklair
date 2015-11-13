@@ -5,7 +5,7 @@ description = "Tips and tricks to use your terminal efficiently."
 
 +++
 
-This guide is for Debian and Ubuntu but should any distro and on OSX.
+This guide is for Debian and Ubuntu but should work with any linux distribution and with OSX.
 
 # Intro
 

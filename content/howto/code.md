@@ -15,7 +15,7 @@ There’s a gazillion languages out there. Some are more useful for hackers than
 
 Why? Both are [free software](/notes/freesoftware) and have a large community. Python is, to my opinion, the most important hacker tool and it’s easy to learn. PHP is just everywhere.
 
-The [Cloud Buster Cloudflare resolver] is a great example of Python hacking.
+The [Cloud Buster Cloudflare resolver](/github/cloudflare-resolver/) is a great example of Python hacking.
 
 Other interesting languages to know about are : [Ruby](https://www.ruby-lang.org/en/) [Java](https://www.java.com/en/) [Perl](https://www.perl.org/).
 

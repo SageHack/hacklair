@@ -1,5 +1,5 @@
 +++
-date = "2015-07-01T10:19:22-04:00"
+date = "2015-07-02T10:19:22-04:00"
 title = "Code: Python"
 description = "Need help getting started with Python? Check those tips."
 
