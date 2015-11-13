@@ -41,6 +41,16 @@ Code versioning is your best friend. It keep track of all changes in your code. 
 
 [Learning resources](https://www.codeschool.com/courses/try-git).
 
+### Vagrant
+
+A software that use [Oracle Virtual Box](https://www.virtualbox.org/) to download and setup pre-configured development environments. It's really useful when you need to mess around with servers and such.
+
+[Vagrant official website](https://www.vagrantup.com/).
+
 ### Python
 
 Read [how to learn Python](/howto/python).
+
+### PHP
+
+Read [how to learn PHP](/howto/php).
