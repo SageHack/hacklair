@@ -1,8 +1,7 @@
 baseurl = "http://sh.cganx.org/"
 languageCode = "en-us"
 title = "The Hack Lair"
-theme = "terminal"
 
 [Params]
     Twitter = "SageHack"
-    Github = "SageHack/hack-lair"
+    Github = "SageHack"
