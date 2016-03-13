@@ -2,8 +2,11 @@
 
 <main>
 
-    <p>Just a small lair to keep the stuff I want to share around to the Interwebz.
+    <p>A small lair for stuff I want to share around.</p>
+
+    {{ range .Data.Pages }}
+ 	   <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+    {{ end }}
+
 
 </main>
-
-{{ partial "footer.html" . }}
