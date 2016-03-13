@@ -4,8 +4,6 @@ title = "@SG_Radio"
 description = "What is Suicide Girl radio?"
 +++
 
-# What is Suicide Girls
-
 All natural and beautiful alternative female models group.
 
 [Website](https://suicidegirls.com) [Twitter](https://twitter.com/SuicideGirls) [Wikipedia](https://en.wikipedia.org/wiki/SuicideGirls)

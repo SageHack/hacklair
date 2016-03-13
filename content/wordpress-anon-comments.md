@@ -6,8 +6,6 @@ description = "A Wordpress plugin to allow anonymous comments and filter spam."
 
 +++
 
-# Anonymous Wordpress comments
-
 This tool was coded by some guy on twitter and wasn’t saved anywhere on the net. I snatched it a while ago and nobody shared it around so I uploaded it.
 
 It’s a Wordpress plugin that change the default comment system.

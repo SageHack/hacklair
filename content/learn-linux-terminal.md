@@ -5,9 +5,7 @@ description = "Tips and tricks to use your terminal efficiently."
 
 +++
 
-This guide is for Debian and Ubuntu but should work with any linux distribution and with OSX.
-
-# Intro
+This guide was written for Debian and Ubuntu but should work with any linux distribution and with OSX.
 
 What we, hackers, need is a portable easy and fast to install setup requiring minimal configuration. It’s also important the setup to work servers might you need it.
 
@@ -48,21 +46,6 @@ Bash is great and all but ZSH is greater.
 The first thing you need to learn about is auto-complete. It’s what happen with you start typing a command or a path and hit the TAB key. ZSH auto-complete is freaking awesome.
 
 Then there’s [OhMyZSH](http://ohmyz.sh). One command curl install and you’ll have a complete setup and you’ll be ready to roll. It’s a bliss. Be sure to check included themes and plug-ins.
-
-## MySQL
-
-If you're playing around with MySQL databases there's a few things you need to know.
-
-### MySQL is dead, use MariaDB instead
-
-Read [Dead database walking: MySQL's creator on why the future belongs to MariaDB] (http://www.computerworld.com.au/article/457551/dead_database_walking_mysql_creator_why_future_belongs_mariadb/).
-
-Updating is as simple as "sudo apt-get remove mysql-client mysql-server ; sudo apt-get install mariadb-client mariadb-client".
-
-### Python MyCLI
-
-[MyCLI](https://github.com/dbcli/mycli) is a very powerful tool. It's way better than default command line tools you'll get. To install use "sudo apt-get install python-pip ; sudo pip install mycli". Then use as any other MySQL command line tools.
-
 
 ## Vim (and not Emacs)
 

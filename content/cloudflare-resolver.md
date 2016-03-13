@@ -1,12 +1,10 @@
 +++
 date = "2015-07-05T09:41:58-04:00"
 weight = 1
-title = "Cloud Buster"
+title = "The Cloud Buster - Cloudflare resolver"
 description = "The most advanced CloudFlare resolver tool."
 
 +++
-
-# The best CloudFlare Resolver
 
 This project was a personal challenge. I wanted to learn Python and get into the security analysis scene a bit and see what I could achieve.
 

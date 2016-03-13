@@ -1,6 +1,6 @@
 +++
 date = "2015-06-21T15:48:02-04:00"
-title = "Pirate Party"
+title = "The Pirate Party"
 description = "What is the Pirate Party political movement and how to get involved."
 +++
 

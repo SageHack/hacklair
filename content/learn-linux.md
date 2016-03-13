@@ -5,13 +5,11 @@ description = "How to learn Linux and start using Ubuntu, Debian and other distr
 
 +++
 
-# Learn how to use Linux
-
 ## Before we start
 
 If you know how to use Linux this guide is not for you.
 
-Read about [free software](/notes/freesoftware).
+Read about [free software](/what-is-free-software).
 
 The focus here is privacy, security, freedom and hacking. If that’s what you want to learn about, we’re good.
 
@@ -43,7 +41,7 @@ The easiest way to learn is to install [Ubuntu for desktop](http://www.ubuntu.co
 
 This is where Linux hold it’s power. Your first step should be to learn how to install/remove software with it. There’s nothing like installing your favorite software without going through a clumsy wizard and tons of legal user agreements.
 
-Use the terminal whenever you can. I wrote [a guide for that](/howto/terminal) too!
+Use the terminal whenever you can. I wrote [a guide for that](/learn-linux-terminal) too!
 
 # Going further
 

@@ -1,13 +1,11 @@
 +++
 date = "2015-11-13T08:01:43-04:00"
-title = "Code: PHP"
+title = "Learn to code with PHP"
 description = "Need help getting started with PHP? Check those tips."
 
 +++
 
-# Learning PHP
-
-Make sure you've read [how to code](/howto/code/) first. Else this won't make sense.
+Make sure you've read [how to code](/code-like-a-hacker) first. Else this won't make sense.
 
 ## PHP is easy to pick up
 
@@ -74,3 +72,17 @@ There's a lot of PHP frameworks out there and to be honest they almost always su
 ## Starting with basics
 
 [CodeCademy.com](https://www.codecademy.com/learn/php) is a great site to learn. It’s free and offer different classes in many languages. That’s always where I start when picking up a new language.
+
+## MySQL
+
+If you're playing around with MySQL databases there's a few things you need to know.
+
+### MySQL is dead, use MariaDB instead
+
+Read [Dead database walking: MySQL's creator on why the future belongs to MariaDB] (http://www.computerworld.com.au/article/457551/dead_database_walking_mysql_creator_why_future_belongs_mariadb/).
+
+Updating is as simple as "sudo apt-get remove mysql-client mysql-server ; sudo apt-get install mariadb-client mariadb-client".
+
+### Python MyCLI
+
+[MyCLI](https://github.com/dbcli/mycli) is a very powerful tool. It's way better than default command line tools you'll get. To install use "sudo apt-get install python-pip ; sudo pip install mycli". Then use as any other MySQL command line tools.

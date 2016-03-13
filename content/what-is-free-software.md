@@ -1,10 +1,9 @@
 +++
 date = "2015-06-27T12:29:59-04:00"
-title = "Free Software"
+title = "What is Free Software?"
 description = "What is Free & Open Source Software (FOSS) and why should we care about it?"
 
 +++
-# What is Free Software?
 
 It’s software that is legally protected in such a way that anybody can use it as they see fit. It’s also protect the source code from being hidden to the users.
 
@@ -36,7 +35,7 @@ Without free software, everybody on earth, would be at the full mercy of governm
 
 # Learn more
 
-I wrote [a guide on how to learn Linux](/howto/linux) if you feel like giving it a try.
+I wrote [a guide on how to learn Linux](/learn-linux) if you feel like giving it a try.
 
 ## Watch
 

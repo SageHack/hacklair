@@ -6,8 +6,6 @@ description = "A tool to delete your Facebook and Twitter time line."
 
 +++
 
-# Remove yourself from Twitter & Facebook
-
 Two simple [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) scripts to help you delete your Facebook or Twitter time lines.
 
 ## It’s probably a soft delete

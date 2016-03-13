@@ -1,13 +1,11 @@
 +++
 date = "2015-07-02T10:19:22-04:00"
-title = "Code: Python"
+title = "Learn to code with Python"
 description = "Need help getting started with Python? Check those tips."
 
 +++
 
-# Learning Python
-
-Make sure you've read [how to code](/howto/code/) first. Else this won't make sense.
+Make sure you've read [how to code](/code-with-python) first. Else this won't make sense.
 
 ## Python is for hackers
 
