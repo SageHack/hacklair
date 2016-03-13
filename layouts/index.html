@@ -1,10 +1,11 @@
 {{ partial "header.html" . }}
+{{ partial "nav.html" . }}
 
 <main>
 
     <p>A small lair for stuff I want to share around.</p>
 
-    {{ range .Data.Pages }}
+    {{ range .Data.Pages.ByDate.Reverse }}
  	   <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
     {{ end }}
 
