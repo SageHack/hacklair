@@ -55,6 +55,17 @@ Practice make perfect, especialy in the hacking world.
 
 The easiest way is to step out there and help others with their computer related problems. Broken iPhone screen? Fix it. Malware rid Windows computer. Fix it. Friend need a crappy website? Code it. Old computer need a refresh. Refresh it. Random person need to learn how to use a computer. Teach them. You get the picture.
 
+## Training grounds
+
+There's a lot of websites and forums with classes and catch the flag challenges to help you learn your new craft.
+
+My favorite are:
+
+* [Ringzer0team](http://ringzer0team.com/)
+* [Enigma Group](http://www.enigmagroup.org/)
+
+If those two aren't your taste, lurk moar. You'll find plenty.
+
 ## More learning, and a bit of hacking
 
 The rest, is up to you. Learn what you think is worth your time. What you do from now will define you as a hacker.
