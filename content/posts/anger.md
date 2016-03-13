@@ -1,6 +1,6 @@
 +++
 date = "2015-06-23T07:21:42-04:00"
-title = "Anger"
+title = "Anger - Wisdom by the Dalai Lama"
 description = "Anger is a sign of weakness"
 +++
 
