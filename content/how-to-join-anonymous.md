@@ -19,12 +19,12 @@ There’s a lot to learn before you feel at home within the Anonymous collective
 
 There’s a lot of stuff you can check out to educate yourself about the Anonymous movement. I recommend you watch and read all of them, in any order.
 
-*   [Anonymous on Wikipedia](https://en.wikipedia.org/wiki/Anonymous_(group))
-*   [We Are Legion](http://wearelegionthedocumentary.com/)
-*   [The Hacker Wars](https://www.youtube.com/watch?v=ku9edEKvGuY)
-*   [The Story of Aaron Swartz](https://www.youtube.com/watch?v=gpvcc9C8SbM)
-*   [Red Hack](https://www.youtube.com/watch?v=nf-24WuN--Y)
-*   [Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous](http://www.theguardian.com/books/2014/nov/19/hacker-hoaxer-whistleblower-spy-many-faces-anonymous-gabriella-coleman-review)
+* [Anonymous on Wikipedia](https://en.wikipedia.org/wiki/Anonymous_(group))
+* [We Are Legion](http://wearelegionthedocumentary.com/)
+* [The Hacker Wars](https://www.youtube.com/watch?v=ku9edEKvGuY)
+* [The Story of Aaron Swartz](https://www.youtube.com/watch?v=gpvcc9C8SbM)
+* [Red Hack](https://www.youtube.com/watch?v=nf-24WuN--Y)
+* [Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous](http://www.theguardian.com/books/2014/nov/19/hacker-hoaxer-whistleblower-spy-many-faces-anonymous-gabriella-coleman-review)
 
 ## New software
 
@@ -98,8 +98,8 @@ From now on **never** use anything that could link to you. Consider everything: 
 
 ## Join!
 
-*   Connect on one of their IRC servers (you'll have to Google that up).
-*   Join the channel [#OpNewBlood](https://twitter.com/search?q=%23OpNewBlood).
+* Connect on one of their IRC servers (you'll have to Google that up).
+* Join the channel [#OpNewBlood](https://twitter.com/search?q=%23OpNewBlood).
 
 ## Hacking
 

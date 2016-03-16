@@ -23,12 +23,12 @@ Without context it’s almost impossible to the public, reporters and any inexpe
 
 Here are some tools you may or may not be aware of — all of them have their uses for specific files.
 
-*   [PDFtk](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) — The PDF Toolkit
-*   [Adobe Reader](https://get.adobe.com/reader/) — Extremely useful for cleaning/altering PDF metadata + links + photos
-*   [Adobe Acrobat Pro](https://www.adobe.com/products/creativesuite/acrobatpro.html)
-*   [NSA Redaction](http://www.ca7.uscourts.gov/guides/nsa-redact.pdf) (PDF) — How to secure files NSA style
-*   [Disk and Data Sanitization Policy and Guidelines](http://www.stanford.edu/group/security/securecomputing/data_destruction_guidelines.html) — Stanford Paper
-*   [GoldWave](http://www.goldwave.com/) — Cleaning/editing MP3 files
-*   [Adobe Audition](https://www.adobe.com/products/audition.html) — audio editing, mixing, restoration, and effects
+* [PDFtk](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) — The PDF Toolkit
+* [Adobe Reader](https://get.adobe.com/reader/) — Extremely useful for cleaning/altering PDF metadata + links + photos
+* [Adobe Acrobat Pro](https://www.adobe.com/products/creativesuite/acrobatpro.html)
+* [NSA Redaction](http://www.ca7.uscourts.gov/guides/nsa-redact.pdf) (PDF) — How to secure files NSA style
+* [Disk and Data Sanitization Policy and Guidelines](http://www.stanford.edu/group/security/securecomputing/data_destruction_guidelines.html) — Stanford Paper
+* [GoldWave](http://www.goldwave.com/) — Cleaning/editing MP3 files
+* [Adobe Audition](https://www.adobe.com/products/audition.html) — audio editing, mixing, restoration, and effects
 
 Although there are probably many more tools, these are the ones that are the most useful in Anonymous’ arsenal. Feel free to ask questions below if there are other things you may need sanitized and don’t know where to search.

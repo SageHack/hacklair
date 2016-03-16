@@ -19,10 +19,10 @@ The collective is all the people involved in anonymous and all the splinter cell
 
 [Gabriella Coleman](http://twitter.com/biellacoleman) once said the most certain thing about Anonymous is that it’s almost impossible to be certain who is behind specific actions. It’s true. That said, we still have a few tips to allow you to identify what groups might be behind certain actions.
 
-**Check their twitter accounts**  
+**Check their twitter accounts**
 Most of Anonymous splinter cells have twitter accounts. If they post on their twitter they did some action, it’s usually true. They can still claim someone else action their own. [#LulzSec](https://twitter.com/search?q=%23LulzSec) use to say “Did we post about it on twitter? No? Then no us.” The same stand for anon splinter cells websites, if they have one.
 
-**Check out Anonymous Press Releases**  
+**Check out Anonymous Press Releases**
 When Anonymous plan on doing something they usually tell before hand. So check out for PR concerning specific hacks and stuff. If you can’t find one then it’s probably not us.
 
 ## What if I make Anons unhappy when writing about them?

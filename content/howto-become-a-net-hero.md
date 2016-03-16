@@ -55,31 +55,31 @@ You need a blog. There’s a bazillion places for that. Just get a free blog som
 
 Here’s a few tips
 
-**Save your articles offline**  
+**Save your articles offline**
 Your blog can get hacked, censored or whatever. Save what you write offline! Or you will regret it for sure.
 
-**Brand your operation**  
+**Brand your operation**
 Choose a unique name that’s easy to remember. People will Google this. Idle no more, Reset the Net and Occupy Wall Street are great examples. If you wanna save local cats from abuse choose something like “Save local kitties!”.
 
 Use your name everywhere!
 
-**Have people proof read what you write**  
+**Have people proof read what you write**
 If you make mistakes you’ll look like a retard, and people will discredit you.
 
-**Link to relevant document, photos and videos**  
+**Link to relevant document, photos and videos**
 That’s how you’ll make your opinion matters and also prove what’s wrong.
 
-**Open appropriate social media account**  
+**Open appropriate social media account**
 Each social network have it’s pros and cons. They might be useful or not. Make sure you think about which one would benefit you, if they do.
 
 ## Once you get the hang of it
 
 Doing all this will take you quite some time but you’ll learn a lot along the way. Once you start feeling confident the time has come to act.
 
-**Talk to friends**  
+**Talk to friends**
 Show your work to plenty of friends. They will criticize and judge you. Stay humble and become your own judge. Some will be right, some will be wrong, some will help you, some will hinder your effort. You’ll learn who are you true friends and how are not.
 
-**Start sharing your info**  
+**Start sharing your info**
 Start sharing all the documentation and events you’ve gathered. Most importantly to journalists. Try sharing to small local indy blogs and newspapers. Don’t got for the big fish first. It won’t work.
 
 Contact appropriate activist network. Anonymous is good for Internet related matters but if you’re trying to save the amazonian forest, you should try Green Peace. There’s one for every problem out there.
