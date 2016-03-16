@@ -50,6 +50,11 @@ h1, h2, h3, h4, h5 {
     text-align: left;
 }
 
+hr {
+    border: 0 none;
+    border-bottom: 2px solid #a0fa96;
+}
+
 nav a, main a {
     background-color: #f6ffeb;
     box-shadow: 0 0 10px #f6ffeb;

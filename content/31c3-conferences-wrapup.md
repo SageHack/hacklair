@@ -7,6 +7,8 @@ description = "A list of all the conference from the Chaos Computer Club 2014 an
 
 All vids can be streamed/downloaded at http://media.ccc.de/browse/congress/2014/
 
+---
+
 ## Reconstructing narratives
 
 Transparency in the service of justice 
@@ -23,6 +25,7 @@ Cause it's insanely awesome talk by TOR dev Jacob Applebaum and Intercept Jouran
 * https://whispersystems.org/blog/signal/
 * http://www.cyanogenmod.org/blog/whisperpush-secure-messaging-integration
 
+---
 
 ## State of the Onion
 
@@ -40,6 +43,7 @@ To learn about TOR from the official DEVs point of view.
 * https://ooni.torproject.org/
 * http://www.washingtonpost.com/world/national-security/talk-by-roger-dingledine-of-torprojectorg-at-the-nsa/2013/10/04/cdd15234-2d1d-11e3-8ade-a1f23cda135e_story.html
 
+---
 
 ## Paypals War on Terror
 
@@ -51,6 +55,7 @@ A Historical Re-Enactment of the PayPal14
 
 Learn about the #PayPal14 #Anonymous #Sabu #USA-privacy
 
+---
 
 ## Freedom in your computer and in the net
 
@@ -66,6 +71,7 @@ Learn about the liberative importance, concepts and philosophy of free software.
 * https://gnu.org/philosophy/philosophy.html
 * https://www.gnu.org/licenses/gpl.html
 
+---
 
 ## The case of Chelsea Manning 
 
@@ -75,6 +81,7 @@ Learn about the liberative importance, concepts and philosophy of free software.
 
 To learn about Manning & Barrett Brown trials, legals issues and related laws.
 
+---
 
 ## Tell no-one
 
@@ -86,6 +93,7 @@ A century of secret deals between the NSA and the telecom industry
 
 To learn the NSA's background history, birth, actions, reasons, work, etc.
 
+---
 
 ## Tor: Hidden Services and Deanonymisation
 
@@ -95,6 +103,7 @@ To learn the NSA's background history, birth, actions, reasons, work, etc.
 
 Learn about the technicalities of how TOR works and techniques used to identifie users. What kind of hidden services exists, what they host and how they are used.
 
+---
 
 ## The Cloud Conspiracy 2008-2014
 
@@ -106,6 +115,7 @@ How the EU was hypnotised that the NSA did not exist
 
 Learn how the US govs legalize worlwide tracking via US services providers.
 
+---
 
 ## What Ever Happened to Nuclear Weapons?
 
@@ -117,6 +127,7 @@ Politics and Physics of a Problem That's Not Going Away
 
 Cause it's scary fucking shit. Horrors of war.
 
+---
 
 ## Heartache and Heartbleed: The insider’s perspective on the aftermath of Heartbleed
 
@@ -128,6 +139,7 @@ The untold story of what really happened, how it was patched and what was learne
 
 Uncover the myths of Heartbleed bug spread by medias and failed bloggers
 
+---
 
 ## Funky File Formats
 
@@ -139,6 +151,7 @@ Advanced binary tricks
 
 To learn about files, how they work, how they can be used to trick you, etc. Funny and for almost everybody.
 
+---
 
 ## Hard Drive Punch
 
@@ -154,6 +167,7 @@ For #lulz at looking stupid "pro" way of destroying the drive and learning how p
 
 * http://www.theguardian.com/world/video/2014/jan/31/snowden-files-computer-destroyed-guardian-gchq-basement-video
 
+---
 
 ## Practical EMV PIN interception and fraud detection 
 
@@ -163,6 +177,7 @@ For #lulz at looking stupid "pro" way of destroying the drive and learning how p
 
 Learn about the unsecurities of physical transaction system (like debit and credit cards).
 
+---
 
 ## Why are computers so @#!*, and what can we do about it?
 
@@ -172,6 +187,7 @@ Learn about the unsecurities of physical transaction system (like debit and cred
 
 If you are a programmer, want to laugh and learn about the insanity and philosophy of software engineering. Get really technical at the end.
 
+---
 
 ## SS7: Locate. Track. Manipulate.
 
@@ -183,6 +199,7 @@ You have a tracking device in your pocket
 
 Because you have a mobile phone, and any decend hacker can use SS7 to mess you up :P
 
+---
 
 ## Mobile self-defense
 [Link](http://media.ccc.de/browse/congress/2014/31c3_-_6122_-_en_-_saal_1_-_201412271830_-_mobile_self-defense_-_karsten_nohl.html#video)
