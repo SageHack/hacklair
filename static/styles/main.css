@@ -50,6 +50,11 @@ h1, h2, h3, h4, h5 {
     text-align: left;
 }
 
+main h1 a, main h2 a, main h3 a, main h4 a, main h5 a {
+    background-color: transparent;
+    box-shadow: 0 0 0 transparent;
+}
+
 hr {
     border: 0 none;
     border-bottom: 2px solid #a0fa96;
@@ -71,15 +76,17 @@ main {
 
 ul {
     padding-left: 1em;
+    list-style: none;
 }
 
 li {
-    list-style: none;
     text-align: left;
 }
 
 li:before {
     content: "\00BB \0020";
+    position: absolute;
+    margin-left: -20px;
 }
 
 footer {
