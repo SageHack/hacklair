@@ -12,6 +12,6 @@ Getting involved in a Pirate Party is an excellent way to promote durable and si
 
 To know more you should definitely watch [Rick Falkvinge TedX talk on “The politics of protest”](https://www.youtube.com/watch?v=zsI3-IEWgFg). It’s a great speech on how governments around the world are cracking down on Internet freedom and how we can politicly get involved to change things.
 
-Follow [@ppinternational](https://twitter.com/ppinternational) for news and events concerning the Pirate Parties.
+Follow [@ppinternational](https://twitter.com/ppinternational) for news and events concerning the Pirate Parties and join The [Pirate Party](https://www.reddit.com/r/pirateparty) subreddit.
 
 Wikipedia : [Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party) [PPI](https://en.wikipedia.org/wiki/Pirate_Parties_International) [PP List](https://en.wikipedia.org/wiki/List_of_Pirate_Parties)

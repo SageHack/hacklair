@@ -19,7 +19,7 @@ There’s a lot to learn before you feel at home within the Anonymous collective
 
 There’s a lot of stuff you can check out to educate yourself about the Anonymous movement. I recommend you watch and read all of them, in any order.
 
-* [Anonymous on Wikipedia](https://en.wikipedia.org/wiki/Anonymous_(group))
+* [Anonymous on Wikipedia](https://en.wikipedia.org/wiki/Anonymous_group)
 * [We Are Legion](http://wearelegionthedocumentary.com/)
 * [The Hacker Wars](https://www.youtube.com/watch?v=ku9edEKvGuY)
 * [The Story of Aaron Swartz](https://www.youtube.com/watch?v=gpvcc9C8SbM)
@@ -80,7 +80,7 @@ Tor is for Anonymity.
 VPN is for Privacy.  
 Confuse them at your own demise.
 
-Start with Wikipedia: [Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) & [VPN](https://en.wikipedia.org/wiki/Virtual_private_network).
+Start with Wikipedia: [Tor](https://en.wikipedia.org/wiki/Tor_anonymity_network) & [VPN](https://en.wikipedia.org/wiki/Virtual_private_network).
 
 ### Tor
 
