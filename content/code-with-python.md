@@ -5,7 +5,7 @@ description = "Need help getting started with Python? Check those tips."
 
 +++
 
-Make sure you've read [how to code](/code-with-python) first. Else this won't make sense.
+Make sure you've read [how to code](/code-with-python/) first. Else this won't make sense.
 
 ## Python is for hackers
 

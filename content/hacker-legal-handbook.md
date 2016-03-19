@@ -88,7 +88,7 @@ Owner, giving or selling any computer device primarily intended for unlawful use
 
 #### Related laws
 
-USA : [18 USC § 2701](http://www.law.cornell.edu/uscode/text/18/2701)
+USA : [18 USC § 2701](https://www.law.cornell.edu/uscode/text/18/2701)
 Canada : [Article 342.2](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-164.html#docCont)
 
 ### Possession of device to obtain telecommunication facility or service <a id='telecom-services'></a>
@@ -97,7 +97,7 @@ If you create, alter, possess, sell or offer any device or instruments to gain n
 
 #### Related laws
 
-USA : [18 USC § 2512](http://www.law.cornell.edu/uscode/text/18/2512)
+USA : [18 USC § 2512](https://www.law.cornell.edu/uscode/text/18/2512)
 Canada : [Article 237](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-158.html#docCont)
 
 ### Unlawful use of computer <a id='unlawful-use'></a>
@@ -106,7 +106,7 @@ Doing anything that isn’t allowed by a “valid” authority while using a com
 
 #### Related laws
 
-USA : [18 USC § 506](http://www.law.cornell.edu/uscode/text/18/506), [18 USC § 1030](http://www.law.cornell.edu/uscode/text/18/1030)
+USA : [18 USC § 506](https://www.law.cornell.edu/uscode/text/18/506), [18 USC § 1030](https://www.law.cornell.edu/uscode/text/18/1030)
 Canada : [Article 342.1](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-163.html#docCont)
 
 ### Interception and disclosure of communications <a id='comm-disclosure'></a>
@@ -115,7 +115,7 @@ If you willfully intercepts a private communication, including between devices, 
 
 #### Related laws
 
-USA : [18 USC § 2511](http://www.law.cornell.edu/uscode/text/18/2511)
+USA : [18 USC § 2511](https://www.law.cornell.edu/uscode/text/18/2511)
 Canada : Article [184](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-88.html#docCont), [193](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-96.html#docCont)
 
 ### Mischief in relation to data <a id='data-mischief'></a>
@@ -140,7 +140,7 @@ If you access to any electronic service you’re not supposed to.
 
 #### Related laws
 
-USA : [18 USC § 2701](http://www.law.cornell.edu/uscode/text/18/2701)
+USA : [18 USC § 2701](https://www.law.cornell.edu/uscode/text/18/2701)
 
 ## Laws related to public relations
 
@@ -150,13 +150,13 @@ Virtually any direct or indirect unwanted contact causing someone to fear for th
 
 #### Related laws
 
-USA : [18 USC § 2261A](http://www.law.cornell.edu/uscode/text/18/2261A)
+USA : [18 USC § 2261A](https://www.law.cornell.edu/uscode/text/18/2261A)
 Canada : [Article 264](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-127.html#docCont)
 
 #### Related documents
 
 [Stalking Victimization](https://www.ncjrs.gov/ovc_archives/reports/help_series/pdftxt/stalkingvictimization.txt)
-[Wikipedia, Stalking](http://en.wikipedia.org/wiki/Stalking)
+[Wikipedia, Stalking](https://en.wikipedia.org/wiki/Stalking)
 
 ### Invasion of privacy <a id='privacy'></a>
 
@@ -174,7 +174,7 @@ Canada : [Article 183](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-87.html
 
 #### Related documents
 
-[Privacy laws of the United States](http://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States)
+[Privacy laws of the United States](https://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States)
 [Invasion of Privacy Law & Legal Definition](http://definitions.uslegal.com/i/invasion-of-privacy/)
 
 ### Public incitement of hatred <a id='hatred'></a>
@@ -199,7 +199,7 @@ Canada : [Article 319](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-153.htm
 
 #### Related documents
 
-[Hate speech in the United States, Wikipedia](http://en.wikipedia.org/wiki/Hate_speech#United_States)
+[Hate speech in the United States, Wikipedia](https://en.wikipedia.org/wiki/Hate_speech#United_States)
 [Canada Supreme Court: Hyperlinks cannot libel](http://www.bbc.co.uk/news/world-us-canada-15374238)
 
 ### Person counseling offense <a id='counselling'></a>
@@ -227,7 +227,7 @@ If you attempt to commit a crime, you’re equally guilty as if you committed th
 
 #### Related laws
 
-USA : [18 USC § 1349](http://www.law.cornell.edu/uscode/text/18/1349)
+USA : [18 USC § 1349](https://www.law.cornell.edu/uscode/text/18/1349)
 Canada : [Article 463](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-221.html#h-142)
 
 ### Parties to offense <a id='parties'></a>
@@ -236,16 +236,16 @@ If you intentionally work with anyone committing a crime, you also commit it.
 
 #### Related laws
 
-USA : [18 USC § 2](http://www.law.cornell.edu/uscode/text/18/2)
+USA : [18 USC § 2](https://www.law.cornell.edu/uscode/text/18/2)
 Canada : [Article 21](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-6.html#docCont)
 
 ---
 
 ## Sources and links used
 
-* [U.S. Code : Table of Contents | LII / Legal Information Institute](http://www.law.cornell.edu/uscode/text)
+* [U.S. Code : Table of Contents | LII / Legal Information Institute](https://www.law.cornell.edu/uscode/text)
 * [US Code – United States Code](http://law.onecle.com/uscode/)
-* [Computer and internet fraud | LII / Legal Information Institute](http://www.law.cornell.edu/wex/computer_and_internet_fraud)
+* [Computer and internet fraud | LII / Legal Information Institute](https://www.law.cornell.edu/wex/computer_and_internet_fraud)
 * [Criminal Code, Department of Justice](http://laws-lois.justice.gc.ca/eng/acts/C-46/index.html)
 * [Technological Crimes – Canadian Legal Instruments](http://www.rcmp-grc.gc.ca/qc/services/gict-itcu/lois-laws-eng.htm)
 * [Barrett Brown Indictment No. 2](http://www.scribd.com/doc/115935232/Barrett-Brown-Indictment-No-2)

@@ -35,7 +35,7 @@ Without free software, everybody on earth, would be at the full mercy of governm
 
 # Learn more
 
-I wrote [a guide on how to learn Linux](/learn-linux) if you feel like giving it a try.
+I wrote [a guide on how to learn Linux](/learn-linux/) if you feel like giving it a try.
 
 ## Watch
 

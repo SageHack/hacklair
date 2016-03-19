@@ -11,9 +11,9 @@ It’s an essential hacker skill. You’ll always need it. Code is everywhere. A
 
 There’s a gazillion languages out there. Some are more useful for hackers than others. I’m going to suggest [Python](https://www.python.org/) and [PHP](https://secure.php.net/).
 
-Why? Both are [free software](/what-is-free-software) and have a large community. Python is, to my opinion, the most important hacker tool and it’s easy to learn. PHP is just everywhere.
+Why? Both are [free software](/what-is-free-software/) and have a large community. Python is, to my opinion, the most important hacker tool and it’s easy to learn. PHP is just everywhere.
 
-The [Cloud Buster Cloudflare resolver](/cloudflare-resolver) is a great example of Python hacking.
+The [Cloud Buster Cloudflare resolver](/cloudflare-resolver/) is a great example of Python hacking.
 
 Other interesting languages to know about are : [Ruby](https://www.ruby-lang.org/en/) [Java](https://www.java.com/en/) [Perl](https://www.perl.org/).
 
@@ -21,7 +21,7 @@ Other interesting languages to know about are : [Ruby](https://www.ruby-lang.org
 
 You can code Python and PHP on any OS but they work best on Linux and OSX. If you’re on Windows you’ll want to move away at some point.
 
-Read those guides if you haven’t : [Free Software](/what-is-free-software) [Learn Linux](/learn-linux-terminal) [Use the terminal](/learn-linux-terminal)
+Read those guides if you haven’t : [Free Software](/what-is-free-software/) [Learn Linux](/learn-linux-terminal/) [Use the terminal](/learn-linux-terminal/)
 
 ### Your code editor
 
@@ -29,7 +29,7 @@ Programming life happen in a code editor. There’s plenty out there, use the on
 
 Atom is easier for beginners. If you use Atom make sure to [disable the metric package](https://github.com/atom/metrics) since it’s sending your usage to Google Analytics.
 
-Vim is ultra light weight, powerful and run on servers. It’s the real hacker stuff. Again, read [how to use the terminal](/learn-linux-terminal).
+Vim is ultra light weight, powerful and run on servers. It’s the real hacker stuff. Again, read [how to use the terminal](/learn-linux-terminal/).
 
 ## Start learning
 
@@ -47,8 +47,8 @@ A software that use [Oracle Virtual Box](https://www.virtualbox.org/) to downloa
 
 ### Python
 
-Read [how to learn Python](/code-with-python).
+Read [how to learn Python](/code-with-python/).
 
 ### PHP
 
-Read [how to learn PHP](/code-with-php).
+Read [how to learn PHP](/code-with-php/).

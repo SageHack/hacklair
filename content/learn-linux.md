@@ -9,7 +9,7 @@ description = "How to learn Linux and start using Ubuntu, Debian and other distr
 
 If you know how to use Linux this guide is not for you.
 
-Read about [free software](/what-is-free-software).
+Read about [free software](/what-is-free-software/).
 
 The focus here is privacy, security, freedom and hacking. If that’s what you want to learn about, we’re good.
 
@@ -17,7 +17,7 @@ The focus here is privacy, security, freedom and hacking. If that’s what you w
 
 Running your games on Linux will help you learn.
 
-Also Valve [hates Windows](http://www.forbes.com/sites/erikkain/2012/07/26/windows-8-is-a-catastrophe-according-to-gabe-newell-valve-hedging-with-steam-on-linux/) and [SteamOS](https://en.wikipedia.org/wiki/SteamOS) run with [Debian](http://debian.org) Linux. For everything else use [Play on Linux](https://www.playonlinux.com/en/).
+Also Valve [hates Windows](http://www.forbes.com/sites/erikkain/2012/07/26/windows-8-is-a-catastrophe-according-to-gabe-newell-valve-hedging-with-steam-on-linux/) and [SteamOS](https://en.wikipedia.org/wiki/SteamOS) run with [Debian](http://www.debian.org) Linux. For everything else use [Play on Linux](https://www.playonlinux.com/en/).
 
 ### Learn to read
 
@@ -41,13 +41,13 @@ The easiest way to learn is to install [Ubuntu for desktop](http://www.ubuntu.co
 
 This is where Linux hold it’s power. Your first step should be to learn how to install/remove software with it. There’s nothing like installing your favorite software without going through a clumsy wizard and tons of legal user agreements.
 
-Use the terminal whenever you can. I wrote [a guide for that](/learn-linux-terminal) too!
+Use the terminal whenever you can. I wrote [a guide for that](/learn-linux-terminal/) too!
 
 # Going further
 
 ## Debian
 
-Once you know how to use Ubuntu properly you’ll want to consider learning [Debian](http://debian.org). Ubuntu is based on Debian so you won’t get lost.
+Once you know how to use Ubuntu properly you’ll want to consider learning [Debian](http://www.debian.org). Ubuntu is based on Debian so you won’t get lost.
 
 It can require a bit of configuration to get it working to your taste. But that’s what Linux is about, freedom.
 

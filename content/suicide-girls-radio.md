@@ -6,7 +6,7 @@ description = "What is Suicide Girl radio?"
 
 All natural and beautiful alternative female models group.
 
-[Website](https://suicidegirls.com) [Twitter](https://twitter.com/SuicideGirls) [Wikipedia](https://en.wikipedia.org/wiki/SuicideGirls)
+[Website](https://www.suicidegirls.com) [Twitter](https://twitter.com/SuicideGirls) [Wikipedia](https://en.wikipedia.org/wiki/SuicideGirls)
 
 # And the radio show?
 

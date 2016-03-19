@@ -32,7 +32,7 @@ Watch ALL OF THE FOLLOWING documentaries :
 * WikiRebels
 * The Pirate Bay - Away from Keyboard
 
-I got links to some of those in the [documentaries section](/my-favorite-documentaries). Find the rest yourself.
+I got links to some of those in the [documentaries section](/my-favorite-documentaries/). Find the rest yourself.
 
 ### Books
 
@@ -47,7 +47,7 @@ Read the following books :
 
 Are you still with us after all that reading? Yes? Ah but we are just getting started. Now the fun part, the learning part.
 
-There are three very important skills every hacker need to master : [Linux](/learn-linux), [Terminal](/learn-linux-terminal) and [Coding](/code-like-a-hacker). Click each link and read the whole thing.
+There are three very important skills every hacker need to master : [Linux](/learn-linux/), [Terminal](/learn-linux-terminal/) and [Coding](/code-like-a-hacker/). Click each link and read the whole thing.
 
 ## Owning your skills
 

@@ -54,7 +54,7 @@ This part is hard because of encrypted e-mails. It’s not easy to understand at
 
 First, in a terminal type “sudo apt-get install gnupg2”.
 
-Second, install [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) with [Enigmail](https://www.enigmail.net/home/index.php).
+Second, install [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) with [Enigmail](https://www.enigmail.net/index.php).
 
 Third, [how to send encrypted e-mails](http://thehackernews.com/2014/01/PGP-encryption-Thunderbird-Enigmail_12.html).
 
@@ -105,4 +105,4 @@ From now on **never** use anything that could link to you. Consider everything: 
 
 Ah yeah… This is the part that you wanted right? If you got everything in this guide so far, then your new quest can begin. We hope you have five to ten years to train, cause yeah, that’s how long it take to become a real hacker.
 
-Read [How to become a Hacker](/become-a-hacker). The whole thing yes!!!
+Read [How to become a Hacker](/become-a-hacker/). The whole thing yes!!!

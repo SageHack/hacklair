@@ -19,7 +19,7 @@ Whatever the reason you wanna go in revolution mode, it need to be clear and sim
 
 You’ll need to prepare your computer according to the dangers you will be facing.
 
-This [simple VPN guide](/simple-vpn-guide) will help you get started, but you might not need to go all the way. If your life **will not be in danger**, it’s probably better that you fight in the open and become an avatar for your activist army. But if you think your life could be in danger, then make sure to use a secure setup.
+This [simple VPN guide](/simple-vpn-guide/) will help you get started, but you might not need to go all the way. If your life **will not be in danger**, it’s probably better that you fight in the open and become an avatar for your activist army. But if you think your life could be in danger, then make sure to use a secure setup.
 
 In most case, using the [Tor Browser Bundle](https://www.torproject.org/), [uBlock](https://addons.mozilla.org/en-US/firefox/addon/ublock/), [DuckDuckGo](https://duckduckgo.com/) and [StartPage](https://startpage.com/) should be enough.
 

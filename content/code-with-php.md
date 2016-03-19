@@ -5,7 +5,7 @@ description = "Need help getting started with PHP? Check those tips."
 
 +++
 
-Make sure you've read [how to code](/code-like-a-hacker) first. Else this won't make sense.
+Make sure you've read [how to code](/code-like-a-hacker/) first. Else this won't make sense.
 
 ## PHP is easy to pick up
 
@@ -65,7 +65,7 @@ You can install PHPCS with Composer. Run "composer global require 'squizlabs/php
 
 ### Frameworks
 
-There's a lot of PHP frameworks out there and to be honest they almost always suck. I've worked with many and the only one so far that was helpful is [Laravel](http://laravel.com/). Be careful thought it's not easy to pick up there's a big learning curve. Community provided guides and help can be confusing because of the many Laravel versions out there.
+There's a lot of PHP frameworks out there and to be honest they almost always suck. I've worked with many and the only one so far that was helpful is [Laravel](https://laravel.com/). Be careful thought it's not easy to pick up there's a big learning curve. Community provided guides and help can be confusing because of the many Laravel versions out there.
 
 [Symfony](http://symfony.com/) and [Zend](http://framework.zend.com/) are also great frameworks but I would only recommend using them if you get into big projects involving more than one developper.
 
