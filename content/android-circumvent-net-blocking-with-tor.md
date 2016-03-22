@@ -46,7 +46,7 @@ By default, Orbot start on boot. You might want to disable that since Orfox will
 
 To access Orbot config panel open the app and hit the sliders icon on the top right corner.
 
-I recommend installing [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) add-on in Orfox.
+Adding [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) to Orfox can help with load times. But it help finger print your browser since it has non standard config. If you care anonymity, don't install.
 
 ## Tor is blocked
 
@@ -56,8 +56,7 @@ Open Orbot and hit the bridges button on the bottom right. Choose an obfuscation
 
 If that fail try another obfuscation method. If they all fail choose "get new bridges" as an obfuscation method and follow instructions. Try all the obfuscation methods again.
 
-## It just doesn't work
+## It doesn't work
 
-If you've followed the steps and aren't connecting to Tor let me know. I will help you out.
+If you've followed the steps and aren't connecting to Tor let me know. Contact me. I will help you out.
 
-You can reach me on [Twitter @SageHack](https://twitter.com/SageHack). My e-mail and PGP key is displayed on my Twitter header image, if you prefer another method.
