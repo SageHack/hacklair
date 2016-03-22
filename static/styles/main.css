@@ -60,7 +60,7 @@ hr {
     border-bottom: 2px solid #a0fa96;
 }
 
-nav a, main a {
+nav a, main a, footer a {
     background-color: #f6ffeb;
     box-shadow: 0 0 10px #f6ffeb;
     border-radius: 2px;

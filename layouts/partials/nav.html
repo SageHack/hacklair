@@ -1,6 +1,7 @@
 <footer>
-    <nav>
-        <span class="cursor">B</span>y
-        <a href="https://twitter.com/SageHack">@SageHack</a>
-    </nav>
+    <span class="cursor">B</span>y
+    <a href="https://twitter.com/SageHack">@SageHack</a>
+    {{ if eq .Date.Year 1 }}{{ else }}
+        on {{ .Date.Format "Mon, Jan 2, 2006" }}
+    {{ end }}
 </footer>
