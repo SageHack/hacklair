@@ -5,6 +5,8 @@ description = "Your work around Internet blocking on an Android device"
 
 +++
 
+This guide will help you work around restricted Internet connection like a school network or Turkish Internet service provider that block Twitter.
+
 ## Orbot and Orfox
 
 When using the Tor Browser bundle what you get is a modified version of Firefox which bundle the Tor proxy. Firefox then connect through that proxy to the Tor network. On an Android device, the browser and proxy come as two apps.
@@ -55,6 +57,12 @@ If for any reason, your connection to the Tor network is blocked, there's a tric
 Open Orbot and hit the bridges button on the bottom right. Choose an obfuscation method and give the app some time to work. There's no visual indicator and the logs are a bit hard to read so make sure you wait at least 30 seconds. Open Orfox and check if you're connected.
 
 If that fail try another obfuscation method. If they all fail choose "get new bridges" as an obfuscation method and follow instructions. Try all the obfuscation methods again.
+
+## Accessing Twitter
+
+Visit twitter.com with Orfox and click the link at the end of the following sentence => "Or, you can go temporarily to this **mobile site**".
+
+If you want to use Twitter Android app, you need to set those proxy settings => "Proxy Host": localhost, "Proxy Port" 8118. You can access the Proxy options from the login or sign up by opening the app menu on the top right corner. If you are logged in you need to open => menu, settings, location and proxy.
 
 ## It doesn't work
 
