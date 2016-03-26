@@ -5,6 +5,8 @@ description = "Your work around Internet blocking on an Android device"
 
 +++
 
+> [@MatthewKeysLive](https://twitter.com/MatthewKeysLive/status/713543148270563328): Snowden advocates Internet users download the Tor Browser to keep activity hidden from “corporate spies” like AT&T
+
 This guide will help you work around restricted Internet connection like a school network or Turkish Internet service provider that block Twitter.
 
 ## Orbot and Orfox

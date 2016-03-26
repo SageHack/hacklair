@@ -74,6 +74,13 @@ main {
     text-align: justify;
 }
 
+blockquote {
+    border: 1px dashed #A0FA96;
+    font-style: italic;
+    margin: 0;
+    padding: 0 1em;
+}
+
 ul {
     padding-left: 1em;
     list-style: none;
