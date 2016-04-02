@@ -96,6 +96,14 @@ li:before {
     margin-left: -20px;
 }
 
+pre {
+    border: 1px solid;
+    padding: 0.25em 0.5em;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
 footer {
     border-top: 2px solid #a0fa96;
     margin-top: 1.5em;

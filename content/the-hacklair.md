@@ -6,7 +6,7 @@ description = "Sage’s Hacker Lair - Guides and stuff for hackers"
 
 +++
 
-It’s this website. Yep everything is on [this GitHub repo](https://github.com/SageHack/hack-lair).
+It’s this website. I use Git to version all changes.
 
 Why? Because it’s a prototype of decentralised versionable websites.
 
