@@ -20,12 +20,15 @@ body {
     padding: 0.5em 1em 0 1em;
 }
 
-header {
-    border-bottom: 2px solid #a0fa96;
+header .title {
     font-size: 2em;
     font-weight: bold;
     letter-spacing: 0.05em;
     margin: 0;
+}
+
+header div {
+    border-bottom: 2px solid #a0fa96;
     padding-bottom: 0.5em;
     padding-top: 0.25em;
     text-align: center;
