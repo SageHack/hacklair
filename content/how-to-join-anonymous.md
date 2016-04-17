@@ -9,7 +9,7 @@ So you want to get on board the Lulzboat? You better get ready cause it’s no j
 
 ## Alternative movements
 
-You might want to consider joining a publicly and legaly known activist movement where you don’t need to live like Batman. Here’s a small list of [some movement I like and support](https://twitter.com/SageHack/lists/activist-collectives/members).
+You might want to consider joining a publicly and legaly known activist movement where you don’t need to live like Batman. Here’s a small list of [some movements I like and support](https://twitter.com/SageHack/lists/activist-collectives/members).
 
 ## Before you begin
 
