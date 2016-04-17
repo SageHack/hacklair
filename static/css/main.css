@@ -1,7 +1,19 @@
 html {
-    background: url('bg.png') repeat scroll 0 0  #273229;
+    background: url('bg.png') repeat scroll 0 0 #273229;
     font-size: 1.25em;
     padding: 0.75em 0.5em;
+}
+
+::selection {
+    background-color: #a0fa96;
+    color: #273229;
+    text-shadow: 0 0 15px #273229;
+}
+
+::-moz-selection {
+    background-color: #a0fa96;
+    color: #273229;
+    text-shadow: 0 0 15px #273229;
 }
 
 body {
