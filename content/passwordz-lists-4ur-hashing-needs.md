@@ -7,7 +7,7 @@ description = "Multiple passwords lists with sources you can use with hashcat, p
 
 Those are the password lists I use with hashing software like Pyrit and Hashcat. They've been pretty useful so I wanted to share them with the Interwebz.
 
-I know you're all a bunch of white hack hackers and you'll only use them to test your own devices. Ahem.
+I know you're all a bunch of white hat hackers and you'll only use them to test your own devices. Ahem.
 
 ## 10 million user/pass combo
 
