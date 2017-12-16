@@ -11,4 +11,4 @@ Around mid march 2016 the team left a notice on the website "This site will not 
 
 I saved their public archive for safe keeping as it's a record worth keeping for studies or future history research about the Anonymous collective.
 
-You can download the archive [here](https://github.com/SageHack/anoninsiders/archive/master.zip).
+You can visit the [mirror hosted on CyberGuerrilla](https://anoninsiders.cyberguerrilla.org), [download the archive](https://github.com/SageHack/anoninsiders/archive/master.zip) or visit the [Github repository](https://github.com/SageHack/anoninsiders).
