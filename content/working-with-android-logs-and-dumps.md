@@ -16,7 +16,9 @@ Official doc:
 
 This command is especially useful to see all logs by process name.
 
+```
 $ adb logcat | grep `adb shell ps | grep com.example.package | cut -c10-15`
+```
 
 ## Logging bluetooth traffic
 
@@ -39,13 +41,17 @@ Analyzing allocated memory is quite complex but well documented. This [official 
 
 You can use those two commands to get basics memory information:
 
+```
 $ adb shell dumpsys meminfo
 $ adb shell dumpsys meminfo 'com.application.namespace'
+```
 
 ## Other useful forensic commands
 
+```
 $ adb shell ps
 $ adb sell netstart
+```
 
 Show running process
 Show current connections
