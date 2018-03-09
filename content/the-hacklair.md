@@ -13,3 +13,5 @@ Why? Because it’s a prototype of decentralised versionable websites.
 I wanted to see it was possible to create ultra light weight no database easy to deploy and mirror website for other projects. So I created this website.
 
 That’s just it really...
+
+Source is on Github: https://github.com/SageHack/hacklair
