@@ -17,7 +17,7 @@ Also, don't expect others to tell you how to do things. You'll have to think and
 
 ### First
 
-Did I mention reading? I think I did. Read [How To Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond, an author, software developer and open source advocate.
+Watch [Guide to learn Hacking](https://www.youtube.com/watch?v=2TofunAI6fU) by [LiveOverflow](https://twitter.com/LiveOverflow). It will set your expectations right. Then, read [How To Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond, an author, software developer and open source advocate.
 
 ### Documentaries
 
