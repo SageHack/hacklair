@@ -5,7 +5,7 @@ description = "Your work around Internet blocking on an Android device"
 
 +++
 
-> [@MatthewKeysLive](https://twitter.com/MatthewKeysLive/status/713543148270563328): Snowden advocates Internet users download the Tor Browser to keep activity hidden from “corporate spies” like AT&T
+> The Tor browser was released since I wrote this article. You can [download it from Google Play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser). Still, everything bellow is still valid and useful for more specific requirements.
 
 This guide will help you work around restricted Internet connection like a school network or Turkish Internet service provider that block Twitter.
 
