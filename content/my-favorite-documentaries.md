@@ -4,17 +4,17 @@ title = "My favorite documentaries"
 description = "Interesting hacker activist documentaries to watch"
 +++
 
-Here’s a list of a docus I enjoyed and recommend.
+Here’s my list of documentaries and recommend.
 
 ## Some privacy tools
 Before we begin...
 
-Here’s [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/) .onion address. You’ll need the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) to visit. If you need a good VPN check out [CryptoStorm.is](http://cryptostorm.is/). Enjoy ;)
+Here’s [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/) .onion address. You’ll need the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) to visit. If you need a good VPN, check out [CryptoStorm.is](http://cryptostorm.is/). Enjoy ;)
 
 ---
 
 ### I am
-This is my favorite docu ever. By former Jim Carrey (Ace Ventura producer). Guy got hit by weird sickness after bike accident and choose to seek out the meaning of life. Made me cry.
+This is my favorite docu ever. By former Jim Carrey (Ace Ventura producer). Guy got hit by weird sickness after a bike accident and choose to seek out the meaning of life. It made me cry.
 
 [Website](http://www.iamthedoc.com/)
 
@@ -29,7 +29,7 @@ Learn the story of Aaron Swartz, an Internet freedom genius. This will make you 
 ---
 
 ### We Are Legion
-Hey! It’s us ;) One of the story of Anonymous.
+Hey! It’s us ;) One of the stories of Anonymous.
 
 [Website](http://wearelegionthedocumentary.com/)
 [Youtube](https://www.youtube.com/watch?v=3SsLGPaYjvM)
@@ -37,7 +37,7 @@ Hey! It’s us ;) One of the story of Anonymous.
 ---
 
 ### RED! Hack
-True bad ass hacker warriors hacktivists. Must watch.
+True badass hacker warriors hacktivists. Must watch.
 
 [Youtube](https://www.youtube.com/watch?v=nf-24WuN--Y)
 
@@ -81,7 +81,7 @@ The life story of a revolutionary rebel who freed his country.
 ---
 
 ### I am FEMEN
-One of the four docu on the FEMEN topless protester activist group.
+One of the four documentaries on the FEMEN topless protester activist group.
 
 [Website](http://caravelproduction.ch/documentaires-3/femen/)
 
@@ -89,14 +89,14 @@ One of the four docu on the FEMEN topless protester activist group.
 
 ### Virunga
 
-How the oil industry destroy a natural reserve protected by devoted African volunteers.
+How the oil industry destroys a natural reserve protected by devoted African volunteers.
 
 [Website](http://virungamovie.com/)
 
 ---
 
 ### Ruins - Chronicle of an HIV witch hunt
-Greece government campaign against “poor woman” and “whores”. Forced HIV tests and other mistreatments of woman. All this show in the end, was just to win the next elections. Sickening.
+Greece government campaign against “poor woman” and “whores”. Forced HIV tests and other mistreatments of women. All this show, in the end, was just to win the next elections. Sickening.
 
 [Youtube](https://www.youtube.com/watch?v=LlbL4sQ3_Fo)
 

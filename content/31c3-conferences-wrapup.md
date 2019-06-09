@@ -17,7 +17,7 @@ Transparency in the service of justice
 
 ### Why watch?
 
-Cause it's insanely awesome talk by TOR dev Jacob Applebaum and Intercept Jouranlist Laura Poitras (work with Snowden).
+Cause it's an insanely awesome talk by TOR dev Jacob Applebaum and Intercept journalist Laura Poitras (work with Snowden).
 
 ### Related links
 
@@ -45,7 +45,7 @@ To learn about TOR from the official DEVs point of view.
 
 ---
 
-## Paypals War on Terror
+## Paypal's War on Terror
 
 A Historical Re-Enactment of the PayPal14 
 
@@ -63,7 +63,7 @@ Learn about the #PayPal14 #Anonymous #Sabu #USA-privacy
 
 ### Why watch?
 
-Learn about the liberative importance, concepts and philosophy of free software.
+Learn about the importance of free software, concepts and philosophy of free software.
 
 ### Related links
 
@@ -79,7 +79,7 @@ Learn about the liberative importance, concepts and philosophy of free software.
 
 ### Why watch?
 
-To learn about Manning & Barrett Brown trials, legals issues and related laws.
+To learn about Manning & Barrett Brown trials, legal issues, and related laws.
 
 ---
 
@@ -101,19 +101,19 @@ To learn the NSA's background history, birth, actions, reasons, work, etc.
 
 ### Why watch?
 
-Learn about the technicalities of how TOR works and techniques used to identifie users. What kind of hidden services exists, what they host and how they are used.
+Learn about the technicalities of how TOR works and techniques used to identify users. What kind of hidden services exists, what they host and how they are used.
 
 ---
 
 ## The Cloud Conspiracy 2008-2014
 
-How the EU was hypnotised that the NSA did not exist 
+How the EU was hypnotized that the NSA did not exist 
 
 [Link](https://media.ccc.de/browse/congress/2014/31c3_-_6195_-_en_-_saal_g_-_201412272145_-_the_cloud_conspiracy_2008-2014_-_caspar_bowden.html#video)
 
 ### Why watch?
 
-Learn how the US govs legalize worlwide tracking via US services providers.
+Learn how the US govs legalize worldwide tracking via US services providers.
 
 ---
 
@@ -131,13 +131,13 @@ Cause it's scary fucking shit. Horrors of war.
 
 ## Heartache and Heartbleed: The insider’s perspective on the aftermath of Heartbleed
 
-The untold story of what really happened, how it was patched and what was learned
+The untold story of what happened, how it was patched and what was learned
 
 [Link](https://media.ccc.de/browse/congress/2014/31c3_-_6212_-_en_-_saal_1_-_201412282330_-_heartache_and_heartbleed_the_insider_s_perspective_on_the_aftermath_of_heartbleed_-_nick_sullivan.html#video)
 
 ### Why watch?
 
-Uncover the myths of Heartbleed bug spread by medias and failed bloggers
+Uncover the myths of Heartbleed bug spread by media and failed bloggers
 
 ---
 
@@ -175,7 +175,7 @@ For #lulz at looking stupid "pro" way of destroying the drive and learning how p
 
 ### Why watch?
 
-Learn about the unsecurities of physical transaction system (like debit and credit cards).
+Learn about the insecurities of the physical transaction system (like debit and credit cards).
 
 ---
 
@@ -185,7 +185,7 @@ Learn about the unsecurities of physical transaction system (like debit and cred
 
 ### Why watch?
 
-If you are a programmer, want to laugh and learn about the insanity and philosophy of software engineering. Get really technical at the end.
+If you are a programmer, want to laugh and learn about the insanity and philosophy of software engineering. Get technical at the end.
 
 ---
 
@@ -197,7 +197,7 @@ You have a tracking device in your pocket
 
 ### Why watch?
 
-Because you have a mobile phone, and any decend hacker can use SS7 to mess you up :P
+Because you have a mobile phone, and any decent hacker can use SS7 to mess you up :P
 
 ---
 

@@ -2,16 +2,18 @@
 date = "2018-06-10T11:30:00-04:00"
 weight = 1
 title = "The Cloud Buster - Cloudflare resolver"
-description = "The most advanced CloudFlare resolver tool."
+description = "The most advanced Cloudflare resolver tool."
 
 +++
 
-This project was a personal challenge. I wanted to learn Python and get into the security analysis scene a bit and see what I could achieve.
+I wrote this tool during [#OpISIS](https://anoninsiders.cyberguerrilla.org/opisis-a-message-from-anonymous-and-friends-3143/index.html). At that time, quite a few Anonymous activists were complaining that Cloudflare was protecting ISIS websites. I wanted to show them that instead of complaining, they should get hacking.
 
-Turns out I created the most advanced and complete CloudFlare resolver tool so far. It can scan lists of sites and there’s a lot of scanning options.
+It was a personal challenge: learn Python, learn pen testing, write a pen test tool.
 
-It even got the attention of CloudFlare head of security. Check this [twitter convo](https://twitter.com/sagehack/status/594653451046498307).
+Turns out I created the most comprehensive Cloudflare resolver. It can scan lists of sites and there’s a lot of scanning options.
 
-Almost three years later I found another guy who built another working resolver and [contacted him on twitter](https://twitter.com/m0rtem/status/974029129115938816). He helped me improve the tool a lot by adding features from [CloudFail](https://github.com/m0rtem/CloudFail) into [CloudBuster](https://github.com/SageHack/cloud-buster).
+It even got the attention of Cloudflare head of security. Check this [twitter convo](https://twitter.com/sagehack/status/594653451046498307).
+
+Almost three years later I found another guy who built another working resolver and [contacted him on Twitter](https://twitter.com/m0rtem/status/974029129115938816). He helped me improve the tool a lot by adding features from [CloudFail](https://github.com/m0rtem/CloudFail) into [CloudBuster](https://github.com/SageHack/cloud-buster).
 
 To download and use the tool check the [GitHub repo](https://github.com/SageHack/cloud-buster).

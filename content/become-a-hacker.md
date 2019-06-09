@@ -1,17 +1,17 @@
 +++
 date = "2015-11-14T06:30:56-04:00"
 title = "So. You want to become a hacker he?"
-description = "Tips and tricks for the wanna be hacker"
+description = "Tips and tricks for the wannabe hacker"
 
 +++
 
 There are many definitions of what hacking or a hacker is. Even hackers disagree. One thing is true for all of us though. Hacking is a way of life and a life long journey.
 
-To become a hacker you need to read A LOT. You have to understand all the tools you work with. It's technical, long, tedious and dedicated work. Also, you need to work in team. Lone prodigy hackers don't need to read this guide.
+To become a hacker you need to read A LOT. You have to understand all the tools you work with. It's technical, long, tedious and dedicated work. Also, you need to work in a team. Lone prodigy hackers don't need to read this guide.
 
-Don't expect to hack into your girl friend Gmail and Facebook account. At the time you are able to, you probably won't be with her anymore.
+Don't expect to hack into your girlfriend Gmail and Facebook account. At the time you can, you probably won't be with her anymore.
 
-Also, don't expect others to tell you how to do things. You'll have to think and figure out things for youself. If you can't, then you don't have what it takes.
+Also, don't expect others to tell you how to do things. You'll have to think and figure out things for yourself. If you can't, then you don't have what it takes.
 
 ## Where to start
 
@@ -45,15 +45,15 @@ Read the following books :
 
 ## Learning
 
-Are you still with us after all that reading? Yes? Ah but we are just getting started. Now the fun part, the learning part.
+Are you still with us after all that reading? Yes? Ah, but we are just getting started. Now the fun part, the learning part.
 
 There are three very important skills every hacker need to master : [Linux](/learn-linux/), [Terminal](/learn-linux-terminal/) and [Coding](/code-like-a-hacker/). Click each link and read the whole thing.
 
 ## Owning your skills
 
-Practice make perfect, especialy in the hacking world.
+Practice makes perfect, especially in the hacking world.
 
-The easiest way is to step out there and help others with their computer related problems. Broken iPhone screen? Fix it. Malware rid Windows computer. Fix it. Friend need a crappy website? Code it. Old computer need a refresh. Refresh it. Random person need to learn how to use a computer. Teach them. You get the picture.
+The easiest way is to step out there and help others with their computer related problems. Broken iPhone screen? Fix it. Malware rid Windows computer. Fix it. Does a friend need a crappy website? Code it. An old computer needs a refresh. Refresh it. A random person needs to learn how to use a computer. Teach them. You get the picture.
 
 ## Training grounds
 
@@ -68,4 +68,4 @@ If those two aren't your taste, lurk moar. You'll find plenty.
 
 ## More learning, and a bit of hacking
 
-The rest, is up to you. Learn what you think is worth your time. What you do from now will define you as a hacker.
+The rest is up to you. Learn what you think is worth your time. What you do from now will define you as a hacker.

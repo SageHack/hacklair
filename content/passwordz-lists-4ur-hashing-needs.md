@@ -11,7 +11,7 @@ I know you're all a bunch of white hat hackers and you'll only use them to test 
 
 ## 10 million user/pass combo
 
-In February 2015 [Mark Burnett's released a compilation of 1,000,000 username/password](http://arstechnica.com/security/2015/02/fearing-an-fbi-raid-researcher-publishes-10-million-passwordsusernames/). It contain the most common combination from leaks made available by hackers.
+In February 2015 [Mark Burnett's released a compilation of 1,000,000 username/password](http://arstechnica.com/security/2015/02/fearing-an-fbi-raid-researcher-publishes-10-million-passwordsusernames/). It contains the most common combination from leaks made available by hackers.
 
 It's not a list you can use for hashing but it got what we need.
 

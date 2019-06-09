@@ -5,11 +5,11 @@ description = "A guide on how to prepare your Android device for forensic analys
 
 +++
 
-So you want to hack some piece of software available on Android devices he? Here's how to setup a dedicate *debugging* (ahem) device.
+So you want to hack some piece of software available on Android devices he? Here's how to set up a dedicate *debugging* (ahem) device.
 
 ## Getting a hackable device
 
-We strongly recommend you use a dedicated device for developing, hacking, bug hunting and testing. All of those can have undesirable effects on your device.
+We strongly recommend you use a dedicated device for developing, hacking, bug hunting, and testing. All of those can have undesirable effects on your device.
 
 ### Cheap devices
 
@@ -17,15 +17,15 @@ Repairing a broken mobile is cheap and a great way to learn. You will need a [re
 
 
 ### Install CyanogenMod OS
-Get a [Cyanogen compatible device list](http://wiki.cyanogenmod.org/w/Devices#type=%22phone%22,%22phablet%22,%22tablet%22;). During CyanogenMod install install the [TWRP](https://twrp.me/) recovery image and when [installing Google Apps](http://wiki.cyanogenmod.org/w/Google_Apps) install the smallest package possible.
+Get a [Cyanogen compatible device list](http://wiki.cyanogenmod.org/w/Devices#type=%22phone%22,%22phablet%22,%22tablet%22;). During CyanogenMod install, install the [TWRP](https://twrp.me/) recovery image and when [installing Google Apps](http://wiki.cyanogenmod.org/w/Google_Apps) install the smallest package possible.
 
 ### Installing software from other sources
 
-During your hacking adventures you are highly likely to need software that wasn't approved or submitted to Google Play. So you will need to enable installation form unknown sources. In the settings search for the term "Install" and select "Install from storage". Then activate "Unknown sources". You will see a box pop-up that ask if Google can analyze your device for "security" purpose. Obviously, we don't want that. The box will pop-up from time to time. Always answer negatively.
+During your hacking adventures, you are highly likely to need software that wasn't approved or submitted to Google Play. So you will need to enable installation form unknown sources. In the settings search for the term "Install" and select "Install from storage". Then activate "Unknown sources". You will see a box pop-up that asks if Google can analyze your device for "security" purposes. We don't want that. The box will pop-up from time to time. Always answer negatively.
 
 ### Disable Google history
 
-If you use a Google account on the device, which I discourage, log into [Google history dashboard](https://history.google.com/history/) and pause the history features. Else it's going to track and keep note of your searches, location, browsing history and much more.
+If you use a Google account on the device, which I discourage, log into [Google history dashboard](https://history.google.com/history/) and pause the history features. Else it's going to track your searches, location, browsing history and much more.
 
 ### Cleanup
 
@@ -46,21 +46,21 @@ Now [activate developer mode](http://wccftech.com/enable-developer-options-in-an
 
 ### Install ADB debugging tools
 
-[This guide](http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378) explain how to install ADB on Linux, OSX and Windows.
+[This guide](http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378) explains how to install ADB on Linux, OSX, and Windows.
 
-*We strongly recommend you use a Linux desktop. [Ubuntu](http://www.ubuntu.com/desktop) is easy to pickup.*
+*We strongly recommend you use a Linux desktop. [Ubuntu](http://www.ubuntu.com/desktop) is easy to pick up.*
 
 ## Trying a few things out
 
-If everything is setup correctly you should have unrestricted access to your device. Let's try a few of then and see how it goes.
+If everything is setup correctly you should have unrestricted access to your device. Let's try a few of them and see how it goes.
 
 ### Browsing through your phone files
 
-In the terminal type: [adb shell](http://developer.android.com/tools/help/shell.html#shellcommands). You should see a command promt that look like **shell@device:/ $** From there you can wander around with [basic Linux commands](http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html) like; **cd** and **ls**.
+In the terminal type: [adb shell](http://developer.android.com/tools/help/shell.html#shellcommands). You should see a command prompt that looks like **shell@device:/ $** From there you can wander around with [basic Linux commands](http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html) like; **cd** and **ls**.
  
 ### Fetching logs
 
-It is possible to get the system logs. All apps write to this logfile so game software are likely to have usable information in there. Type **adb logcat** in your command promt and it should display.
+It is possible to get the system logs. All apps write to this log file so game software is likely to have useful information in there. Type **adb logcat** in your command prompt and it should display.
 
 > Other posts from the **Android forensics and security analysis** series:
 >

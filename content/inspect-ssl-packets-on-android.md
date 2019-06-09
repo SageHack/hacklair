@@ -5,9 +5,9 @@ description = "Decrypt and log SSL traffic on your Android devices with a single
 
 +++
 
-It's rather easy to decipher SSL encrypted traffic on any Android device. You install a self sign CA Certificate and bam!
+It's rather easy to decipher SSL encrypted traffic on any Android device. You install a self-sign CA Certificate and bam!
 
-With this attack you can read and tamper data on the fly, as long as you can catch the data flow.
+With this attack, you can read and tamper data on the fly, as long as you can catch the data flow.
 
 ## Security implications
 
@@ -24,14 +24,14 @@ Packet Capture does all the work for you.
 ## How it works
 
 * Add trusted fake SSL certificate to your device
-* Encrypt traffic with fake certificate
+* Encrypt traffic with a fake certificate
 * Send traffic through your device VPN
-* Decrypt with fake certificate
+* Decrypt with a fake certificate
 * Capture
-* Encrypt with real certificate
+* Encrypt with a real certificate
 * Send to destination
 
-The following article explain how to set things up manually. Everything is explained thoroughly. If you read it carefully, you'll understand the inner workings pretty easily.
+The following article explains how to set things up manually. Everything is explained thoroughly. If you read it carefully, you'll understand the inner workings pretty easily.
 
 [Intercepting and decrypting SSL communications between Android phone and 3rd party server](http://www.myhowto.org/java/81-intercepting-and-decrypting-ssl-communications-between-android-phone-and-3rd-party-server/)
 
@@ -41,7 +41,7 @@ To prevent tempering you can sign the data with a public key and verify the sign
 
 I'm still trying to figure out how to prevent decryption
 
-## Other revelant articles
+## Other relevant articles
 
 * [Android 4.0 add user certificates](http://android.stackexchange.com/questions/57976/how-do-i-install-a-user-certificate?answertab=votes#tab-top)
 * [Working with certificates](https://support.google.com/nexus/answer/2844832?hl=en)

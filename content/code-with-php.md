@@ -9,9 +9,9 @@ Make sure you've read [how to code](/code-like-a-hacker/) first. Else this won't
 
 ## PHP is easy to pick up
 
-That's what most self-taught coders and beginners learn first. Thus, code and configs one a lot of servers are messy and insecure. And since there's a lot of PHP enabled servers out there knowing your way around it is pretty useful.
+That's what most self-taught coders and beginners learn first. Thus, code and configs one a lot of servers are messy and insecure. And since there are a lot of PHP enabled servers out there knowing your way around it is pretty useful.
 
-Facebook, Wikipedia and Wordpress are apps built with PHP that I'm sure you've heard of.
+Facebook, Wikipedia, and Wordpress are apps built with PHP that I'm sure you've heard of.
 
 Also, learning PHP will help you learn other languages.
 
@@ -27,19 +27,19 @@ You can pick up a [pre-made PHP7 Vagrant box](https://atlas.hashicorp.com/rasmus
 
 # Coding tools
 
-Tools will make your coding life easier, but you need to know about them. Some are easy use, some aren't. At some point you'll need to use all of them so you should at least know what they are.
+Tools will make your coding life easier, but you need to know about them. Some are easy use, some aren't. At some point, you'll need to use all of them so you should at least know what they are.
 
 ## PHP build in tools
 
 ### Interactive shell
 
-This shell allow you to type PHP code in your console that execute right away.
+This shell allows you to type PHP code in your console that executes right away.
 
 php -a
 
 ### Local server
 
-You can fire up a web server from any folder on your system to run your code with a browser. It's really useful but if you need fancy stuff provided by full fledged web servers, it won't work.
+You can fire up a web server from any folder on your system to run your code with a browser. It's really useful but if you need fancy stuff provided by full-fledged web servers, it won't work.
 
 php -s localhost:8080
 
@@ -51,7 +51,7 @@ There's a way to packages single file executable compressed archive you can easi
 
 ### Composer
 
-Composer is a package manager for PHP to help you work with community built software packages.
+Composer is a package manager for PHP to help you work with community-built software packages.
 
 First, you need to get Composer from the [official website](https://getcomposer.org/) then you visit [Packagist](https://packagist.org/) to get the packages you need. [Packages from the Symfony framework](https://packagist.org/search/?q=symfony) are awesome and I strongly recommend you take a look at them.
 
@@ -65,17 +65,17 @@ You can install PHPCS with Composer. Run "composer global require 'squizlabs/php
 
 ### Frameworks
 
-There's a lot of PHP frameworks out there and to be honest they almost always suck. I've worked with many and the only one so far that was helpful is [Laravel](https://laravel.com/). Be careful thought it's not easy to pick up there's a big learning curve. Community provided guides and help can be confusing because of the many Laravel versions out there.
+There's a lot of PHP frameworks out there and to be honest they almost always suck. I've worked with many and the only one so far that was helpful is [Laravel](https://laravel.com/). Be careful though it's not easy to pick up there's a big learning curve. Community provided guides and help can be confusing because of the many Laravel versions out there.
 
-[Symfony](http://symfony.com/) and [Zend](http://framework.zend.com/) are also great frameworks but I would only recommend using them if you get into big projects involving more than one developper.
+[Symfony](http://symfony.com/) and [Zend](http://framework.zend.com/) are also great frameworks but I would only recommend using them if you get into big projects involving more than one developer.
 
 ## Starting with basics
 
-[CodeCademy.com](https://www.codecademy.com/learn/php) is a great site to learn. It’s free and offer different classes in many languages. That’s always where I start when picking up a new language.
+[CodeCademy.com](https://www.codecademy.com/learn/php) is a great site to learn. It’s free and offers different classes in many languages. That’s always where I start when picking up a new language.
 
 ## MySQL
 
-If you're playing around with MySQL databases there's a few things you need to know.
+If you're playing around with MySQL databases there are a few things you need to know.
 
 ### MySQL is dead, use MariaDB instead
 
@@ -85,4 +85,4 @@ Updating is as simple as "sudo apt-get remove mysql-client mysql-server ; sudo a
 
 ### Python MyCLI
 
-[MyCLI](https://github.com/dbcli/mycli) is a very powerful tool. It's way better than default command line tools you'll get. To install use "sudo apt-get install python-pip ; sudo pip install mycli". Then use as any other MySQL command line tools.
+[MyCLI](https://github.com/dbcli/mycli) is a very powerful tool. It's way better than the default command line tools you'll get. To install, use "sudo apt-get install python-pip ; sudo pip install mycli". Then use as any other MySQL command line tools.

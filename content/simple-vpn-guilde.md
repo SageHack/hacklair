@@ -7,12 +7,12 @@ description = "A tutorial dedicated to online activist. We explain how to comple
 
 This guide is dedicated to all new online activists who need guidance with VPNs (virtual private networks). We’re going to help you with your first setup choice.
 
-Never use the any suggested setup for anything related to your personal life. No personal facebook, twitter, banking, MSN, hotmail, gmail, etc.
+Never use the suggested setup for anything related to your personal life. No personal facebook, twitter, banking, MSN, Hotmail, Gmail, etc.
 
 ## Before we start
 
 You need to understand the following topic so read each page carefully : [VPN](https://en.wikipedia.org/wiki/Vpn), [Proxy](https://en.wikipedia.org/wiki/Proxy_server), [VM](https://en.wikipedia.org/wiki/Virtual_machine), [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin).
-**Never use free services.** There’s always hidden unwanted side backs that will put you at risk.
+**Never use free services.** There are always hidden unwanted side backs that will put you at risk.
 Use bitcoin to buy your service if possible. It’s an anonymous online payment system.
 
 ## Choose your setup
@@ -39,9 +39,9 @@ Bit more technical but very effective. You need a powerful PC.
 Simple, secure and effective. You can’t do anything outside a browser.
 
 * Install [TOR Browser bundle](https://www.torproject.org/projects/torbrowser.html.en).
-* Choose a proxy. We recommend contacting [WhatTheServer](http://whattheserver.me/) and ask them to set you up with a SSH Tunel.
+* Choose a proxy. We recommend contacting [WhatTheServer](http://whattheserver.me/) and ask them to set you up with an SSH tunnel.
 * Setup your proxy as explained.
-* Start the TOR Browser bundle.
+* Start the TOR Browser Bundle.
 * Click on the onion icon on the left side of the address bar.
 * Setup your proxy instead of TOR proxy.
 * Never do anything outside of your browser.
@@ -56,11 +56,11 @@ Simple, very secure but very very slow.
 
 ## About Bitcoin
 
-Here’s a few link to help you out with bitcoins.
+Here are a few links to help you out with bitcoins.
 
 [BlockChain Wallet](https://blockchain.info/wallet/) : Manage your wallets & send/receive money.
-[Local Bitcoins](https://localbitcoins.com/) : Buy bitcoins locally directly from people.
-[MTGox](https://mtgox.com/) : Buy bitcoin via bank account in USA.
-[Kraken](https://www.kraken.com/) : Buy bitcoins via bank account in Canada.
-[Bitcoin Trade](https://en.bitcoin.it/wiki/Trade) : What can you buy with bitcoins?
-[Bitcoin Wiki](https://en.bitcoin.it/wiki/) : The biggest wiki about bitcoins.
+[Local Bitcoins](https://localbitcoins.com/): Buy bitcoins locally directly from people.
+[MTGox](https://mtgox.com/): Buy bitcoin via a bank account in the USA.
+[Kraken](https://www.kraken.com/): Buy bitcoins via a bank account in Canada.
+[Bitcoin Trade](https://en.bitcoin.it/wiki/Trade): What can you buy with bitcoins?
+[Bitcoin Wiki](https://en.bitcoin.it/wiki/): The biggest wiki about bitcoins.

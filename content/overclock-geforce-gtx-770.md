@@ -5,7 +5,7 @@ description = "Push your GeForce GTX 770 to max power in no time!"
 
 +++
 
-Turn out overclocking the GeForce GTX 770 on Windows is simple enough. Keep in mind that each graphic card is different. If you have a NVIDIA GeForce GTX 770 those settings should be a good start.
+Turn out overclocking the GeForce GTX 770 on Windows is simple enough. Keep in mind that each graphics card is different. If you have an NVIDIA GeForce GTX 770 those settings should be a good start.
 
 ## Download NVIDIA Inspector
 
@@ -25,7 +25,7 @@ You can download it from [Guru 3D NVIDIA inspector page](http://www.guru3d.com/f
 
 ## Testing and adjusting settings
 
-The GeForce GTX 770 overclock very well and there's really not much danger of destroying your GPU, even thought it can happen.
+The GeForce GTX 770 overclock very well and there's not much danger of destroying your GPU, even though it can happen.
 
 Try to get the GPU over 98% load for a few minutes and see how it goes.
 
@@ -35,6 +35,6 @@ If your settings are wrong your PC will freeze and you'll have to start over. Tr
 
 Once you're happy with your settings right click the "Create Clocks Shortcut" and select "Set Clock Startup Task" and you're set!
 
-Each time you'll change your settings you'll also need to update the the startup task. So make sure to click the button again.
+Each time you'll change your settings you'll also need to update the startup task. So make sure to click the button again.
 
 You don't need to open the software when your computer boot.

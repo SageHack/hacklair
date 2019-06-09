@@ -8,10 +8,10 @@ description = "Sage’s Hacker Lair - Guides and stuff for hackers"
 
 It’s this website. I use Git to version all changes.
 
-Why? Because it’s a prototype of decentralised versionable websites.
+Why? Because it’s a prototype of decentralized versionable websites.
 
-I wanted to see it was possible to create ultra light weight no database easy to deploy and mirror website for other projects. So I created this website.
+I wanted to see it was possible to create ultra-lightweight no database easy to deploy and mirror website for other projects. So I created this website.
 
-That’s just it really...
+That’s just it...
 
-Source is on Github: https://github.com/SageHack/hacklair
+The source is on Github: https://github.com/SageHack/hacklair

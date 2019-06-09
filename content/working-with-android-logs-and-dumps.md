@@ -7,7 +7,7 @@ description = "Learn how to dump and read Android OS and App data."
 
 ## Android debugging logs
 
-ADB Logcat display the system debugging file. Apps that use the Android logging API will dump logs into this file which can be open and filtered.
+ADB Logcat displays the system debugging file. Apps that use the Android logging API will dump logs into this file which can be open and filtered.
 
 Official doc:
 
@@ -20,9 +20,9 @@ This command is especially useful to see all logs by process name.
 $ adb logcat | grep `adb shell ps | grep com.example.package | cut -c10-15`
 ```
 
-## Logging bluetooth traffic
+## Logging Bluetooth traffic
 
-In the developper options activate **Enable Bluetooth HCI snoop log**. Then run **adb shell "cat /sdcard/btsnoop_hci.log"** to view the file or **adb pull /sdcard/btsnoop_hci.log** to save the file on disk.
+In the developer, options activate **Enable Bluetooth HCI snoop log**. Then run `adb shell "cat /sdcard/btsnoop_hci.log"` to view the file or `adb pull /sdcard/btsnoop_hci.log` to save the file on disk.
 
 You will need an hex editor. I recommend:
 
@@ -37,7 +37,7 @@ You will need an hex editor. I recommend:
 
 ## RAM forensics
 
-Analyzing allocated memory is quite complex but well documented. This [official Android documentation](http:/>/developer.android.com/tools/debugging/debugging-memory.html) provide all the necessary explanations.
+Analyzing allocated memory is quite complex but well documented. This [official Android documentation](http://developer.android.com/tools/debugging/debugging-memory.html) provides all the necessary explanations.
 
 You can use those two commands to get basics memory information:
 

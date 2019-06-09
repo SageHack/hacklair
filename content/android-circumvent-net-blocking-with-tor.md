@@ -5,23 +5,23 @@ description = "Your work around Internet blocking on an Android device"
 
 +++
 
-> The Tor browser was released since I wrote this article. You can [download it from Google Play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser). Still, everything bellow is still valid and useful for more specific requirements.
+> The Tor browser was released since I wrote this article. You can [download it from Google Play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser). Still, everything below is valid and useful for more specific requirements.
 
-This guide will help you work around restricted Internet connection like a school network or Turkish Internet service provider that block Twitter.
+This guide will help you work around restricted Internet connection like a school network or Turkish Internet service provider that blocks Twitter.
 
 ## Orbot and Orfox
 
-When using the Tor Browser bundle what you get is a modified version of Firefox which bundle the Tor proxy. Firefox then connect through that proxy to the Tor network. On an Android device, the browser and proxy come as two apps.
+When using the Tor Browser bundle what you get is a modified version of Firefox which bundles the Tor proxy. Firefox then connects through that proxy to the Tor network. On an Android device, the browser and proxy come as two apps.
 
 [Orbot](https://guardianproject.info/apps/orbot/) is the proxy. It's packed with features and is quite flexible.
 
-[Orfox](https://guardianproject.info/apps/orfox/) is the browser. It's a modified version of Firefox with built in security modules and options you'll need.
+[Orfox](https://guardianproject.info/apps/orfox/) is the browser. It's a modified version of Firefox with built-in security modules and options you'll need.
 
 You need to do is install both apps.
 
 ### Google Play
 
-The simpliest method is to install via Google Play.
+The simplest method is to install via Google Play.
 
 [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox)
 
@@ -46,11 +46,11 @@ If you cannot or do not want to use Google Play there's hope. F-Droid is an alte
 
 ## Configs
 
-By default, Orbot start on boot. You might want to disable that since Orfox will start Orbot when it need.
+By default, Orbot starts on boot. You might want to disable that since Orfox will start Orbot when it needs.
 
 To access Orbot config panel open the app and hit the sliders icon on the top right corner.
 
-Adding [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) to Orfox can help with load times. But it help finger print your browser since it has non standard config. If you care anonymity, don't install.
+Adding [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) to Orfox can help with load times. But it helps fingerprint your browser since it has non-standard config. If you care anonymity, don't install.
 
 ## Tor is blocked
 
@@ -58,7 +58,7 @@ If for any reason, your connection to the Tor network is blocked, there's a tric
 
 Open Orbot and hit the bridges button on the bottom right. Choose an obfuscation method and give the app some time to work. There's no visual indicator and the logs are a bit hard to read so make sure you wait at least 30 seconds. Open Orfox and check if you're connected.
 
-If that fail try another obfuscation method. If they all fail choose "get new bridges" as an obfuscation method and follow instructions. Try all the obfuscation methods again.
+If that fails tries another obfuscation method. If they fail, choose "get new bridges" as an obfuscation method and follow instructions. Try all the obfuscation methods again.
 
 ## Accessing Twitter
 

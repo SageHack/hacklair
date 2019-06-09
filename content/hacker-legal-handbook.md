@@ -4,7 +4,7 @@ title = "The hacktivist legal handbook"
 description = "A legal study about hacking and online activism related activities."
 +++
 
-This document goal is to better understand the some legal aspects of hacktivism. Even thought we were helped by juridic technician it's not an official document. It was created for North America but most civilized countries have similar law and rules.
+This document goal is to better understand some legal aspects of hacktivism. Even though we were helped by a juridic technician it's not an official document. It was created for North America but most civilized countries have similar laws and rules.
 
 * [Probable charge by activities](#charges)
 * [Laws related to computers](#laws)
@@ -14,7 +14,7 @@ This document goal is to better understand the some legal aspects of hacktivism.
 
 ## Probable charge by activities
 
-It’s important to know what charges can be held against people for doing specific activities in order to be aware of what information you can or cannot give in the PR specific context.
+It’s important to know what charges can be held against people for doing specific activities to be aware of what information you can or cannot give in the PR specific context.
 
 Here’s the list : [D0x](#d0x), [DDoS](#ddos), [Opers](#opers), [Trolling](#trolling), [Deface](#deface), [Hack](#hack), [Leak](#leak), [Ops](#ops).
 
@@ -93,7 +93,7 @@ Canada : [Article 342.2](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-164.h
 
 ### Possession of device to obtain telecommunication facility or service <a id='telecom-services'></a>
 
-If you create, alter, possess, sell or offer any device or instruments to gain non permitted access or gain access to telecoms with unlawful intentions.
+If you create, alter, possess, sell or offer any device or instruments to gain non-permitted access or gain access to telecoms with unlawful intentions.
 
 #### Related laws
 
@@ -111,7 +111,7 @@ Canada : [Article 342.1](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-163.h
 
 ### Interception and disclosure of communications <a id='comm-disclosure'></a>
 
-If you willfully intercepts a private communication, including between devices, without permissions, with any device, even a paper cup against a door. Of course if you’re any law agency or security firm you have “reasonable” rights to do what you want.
+If you willfully intercept a private communication, including between devices, without permissions, with any device, even a paper cup against a door. Of course, if you’re any law agency or security firm you have “reasonable” rights to do what you want.
 
 #### Related laws
 
@@ -120,7 +120,7 @@ Canada : Article [184](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-88.html
 
 ### Mischief in relation to data <a id='data-mischief'></a>
 
-If you alter, destroys or render useless any data. If you endanger someone’s life in doing so you can go to prison for life, else it depend on how much the data is worth.
+If you alter, destroys or render useless any data. If you endanger someone’s life in doing so you can go to prison for life, else it depends on how much the data is worth.
 
 #### Related laws
 
@@ -136,7 +136,7 @@ USA : [18 USC § 1028](http://law.onecle.com/uscode/18/1028.html)
 
 ### Unlawful access to stored communications <a id='axx2comms'></a>
 
-If you access to any electronic service you’re not supposed to.
+If you access any electronic service you’re not supposed to.
 
 #### Related laws
 
@@ -162,7 +162,7 @@ Canada : [Article 264](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-127.htm
 
 #### USA
 
-Individual who unlawfully intrudes into his or her private affairs, discloses his or her private information, publicizes him or her in a false light or appropriates his or her name for personal gain.
+An individual who unlawfully intrudes into his or her private affairs discloses his or her private information, publicizes him or her in a false light or appropriates his or her name for personal gain.
 
 #### Canada
 
@@ -191,7 +191,7 @@ You’re ok if any of the following is true :
 * the statements are proven as true and are shared in good faith
 * the statements are relevant to any subject of public interest and the discussion was for the public benefit
 
-Identifiable group : any section of the public distinguished by color, race, religion, ethnic origin or sexual orientation.
+Identifiable group: any section of the public distinguished by color, race, religion, ethnic origin or sexual orientation.
 
 #### Related laws
 
@@ -213,7 +213,7 @@ United Kingdom : [Act 1861](http://www.legislation.gov.uk/ukpga/Vict/24-25/94/in
 
 ### Counseling offense that is not committed <a id='counselling-not-commit'></a>
 
-If you willfully incite, solicit or give any form of advice to anyone with the intention of them committing a crime, you can be found guilty even thought the person didn’t commit it.
+If you willfully incite, solicit or give any form of advice to anyone with the intention of them committing a crime, you can be found guilty even though the person didn’t commit it.
 
 #### Related laws
 

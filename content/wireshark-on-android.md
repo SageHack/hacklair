@@ -7,7 +7,7 @@ description = "How to read Android packet dumps in Wireshark"
 
 If you are looking for a Wireshark alternative for Android devices, unfortunately, there are none viable. All know apps on the Google Play doesn't work well or lack updates and features.
 
-The best way to use Wireshark with an Android device is to install [tPacket Capture](https://play.google.com/store/apps/details?id=jp.co.taosoftware.android.packetcapture) or [tPacket Capture pro](https://play.google.com/store/apps/details?id=jp.co.taosoftware.android.packetcapturepro), pull your .pcap dump to your computer with adb pull and open them in Wireshark.
+The best way to use Wireshark with an Android device is to install [tPacket Capture](https://play.google.com/store/apps/details?id=jp.co.taosoftware.android.packetcapture) or [tPacket Capture pro](https://play.google.com/store/apps/details?id=jp.co.taosoftware.android.packetcapturepro), pull your .pcap dump to your computer with `adb pull` and open them in Wireshark.
 
 You can download [tPacket Catpure pro](http://www.aptoide.com/app/jp.co.taosoftware.android.packetcapturepro/tpacketcapture-pro) from the alternative app store [Aptoide](http://www.aptoide.com/).
 

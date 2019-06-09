@@ -6,7 +6,7 @@ description = "A tool to delete your Facebook and Twitter time line."
 
 +++
 
-Two simple [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) scripts to help you delete your Facebook or Twitter time lines.
+Two simple [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) scripts to help you delete your Facebook or Twitter timelines.
 
 ## It’s probably a soft delete
 
@@ -22,4 +22,4 @@ The [Twitter tool](https://github.com/SageHack/twitter_timeline_cleaner) undo yo
 
 ## Facebook timeline cleaner
 
-The [Facebook tool](https://github.com/SageHack/fb_timeline_cleaner) remove your photos, your posts, your comments, unfriend people and undo your likes. Some weird content won’t be remove so you have to clean some stuff yourself.
+The [Facebook tool](https://github.com/SageHack/fb_timeline_cleaner) remove your photos, your posts, your comments, unfriend people and undo your likes. Some weird content won’t be removed so you have to clean some stuff yourself.
