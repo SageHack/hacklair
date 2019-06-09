@@ -6,9 +6,7 @@ description = "The most advanced Cloudflare resolver tool."
 
 +++
 
-I wrote this tool during [#OpISIS](https://anoninsiders.cyberguerrilla.org/opisis-a-message-from-anonymous-and-friends-3143/index.html). At that time, quite a few Anonymous activists were complaining that Cloudflare was protecting ISIS websites. I wanted to show them that instead of complaining, they should get hacking.
-
-It was a personal challenge: learn Python, learn pen testing, write a pen test tool.
+I wrote this tool during [#OpISIS](https://anoninsiders.cyberguerrilla.org/opisis-a-message-from-anonymous-and-friends-3143/index.html). At that time, quite a few Anonymous activists were complaining that Cloudflare was protecting ISIS websites. I wanted to show them that instead of complaining, they should get hacking. It was also a personal challenge: learn Python, learn more about pen testing, and write a workin pen test tool.
 
 Turns out I created the most comprehensive Cloudflare resolver. It can scan lists of sites and there’s a lot of scanning options.
 
